@@ -1,0 +1,3670 @@
+[
+    {
+        "id": 1,
+        "prompt": "Io {input} (mangiare) la pasta.",
+        "answer": "mangio",
+        "translation": "I eat the pasta.",
+        "audio": "1_Io_mangio_la_pasta.mp3"
+    },
+    {
+        "id": 2,
+        "prompt": "Lui {input} (guardare) la TV.",
+        "answer": "guarda",
+        "translation": "He watches TV.",
+        "audio": "2_Lui_guarda_la_TV.mp3"
+    },
+    {
+        "id": 3,
+        "prompt": "Tu {input} (parlare) italiano.",
+        "answer": "parli",
+        "translation": "You speak Italian.",
+        "audio": "3_Tu_parli_italiano.mp3"
+    },
+    {
+        "id": 4,
+        "prompt": "Noi {input} (abitare) a Roma.",
+        "answer": "abitiamo",
+        "translation": "We live in Rome.",
+        "audio": "4_Noi_abitiamo_a_Roma.mp3"
+    },
+    {
+        "id": 5,
+        "prompt": "Voi {input} (studiare) matematica.",
+        "answer": "studiate",
+        "translation": "You study mathematics.",
+        "audio": "5_Voi_studiate_matematica.mp3"
+    },
+    {
+        "id": 6,
+        "prompt": "Loro {input} (giocare) a calcio.",
+        "answer": "giocano",
+        "translation": "They play soccer.",
+        "audio": "6_Loro_giocano_a_calcio.mp3"
+    },
+    {
+        "id": 7,
+        "prompt": "Io {input} (ascoltare) la musica.",
+        "answer": "ascolto",
+        "translation": "I listen to music.",
+        "audio": "7_Io_ascolto_la_musica.mp3"
+    },
+    {
+        "id": 8,
+        "prompt": "Lei {input} (lavorare) in ufficio.",
+        "answer": "lavora",
+        "translation": "She works in the office.",
+        "audio": "8_Lei_lavora_in_ufficio.mp3"
+    },
+    {
+        "id": 9,
+        "prompt": "Noi {input} (camminare) nel parco.",
+        "answer": "camminiamo",
+        "translation": "We walk in the park.",
+        "audio": "9_Noi_camminiamo_nel_parco.mp3"
+    },
+    {
+        "id": 10,
+        "prompt": "Tu {input} (giocare) a tennis.",
+        "answer": "giochi",
+        "translation": "You play tennis.",
+        "audio": "10_Tu_giochi_a_tennis.mp3"
+    },
+    {
+        "id": 11,
+        "prompt": "Io {input} (comprare) il pane.",
+        "answer": "compro",
+        "translation": "I buy the bread.",
+        "audio": "11_Io_compro_il_pane.mp3"
+    },
+    {
+        "id": 12,
+        "prompt": "Loro {input} (amare) la musica.",
+        "answer": "amano",
+        "translation": "They love music.",
+        "audio": "12_Loro_amano_la_musica.mp3"
+    },
+    {
+        "id": 13,
+        "prompt": "Voi {input} (preparare) la cena.",
+        "answer": "preparate",
+        "translation": "You prepare dinner.",
+        "audio": "13_Voi_preparate_la_cena.mp3"
+    },
+    {
+        "id": 14,
+        "prompt": "Lui {input} (visitare) la nonna.",
+        "answer": "visita",
+        "translation": "He visits his grandmother.",
+        "audio": "14_Lui_visita_la_nonna.mp3"
+    },
+    {
+        "id": 15,
+        "prompt": "Io {input} (trovare) le chiavi.",
+        "answer": "trovo",
+        "translation": "I find the keys.",
+        "audio": "15_Io_trovo_le_chiavi.mp3"
+    },
+    {
+        "id": 16,
+        "prompt": "Lei {input} (cantare) una canzone.",
+        "answer": "canta",
+        "translation": "She sings a song.",
+        "audio": "16_Lei_canta_una_canzone.mp3"
+    },
+    {
+        "id": 17,
+        "prompt": "Noi {input} (cercare) un ristorante.",
+        "answer": "cerchiamo",
+        "translation": "We look for a restaurant.",
+        "audio": "17_Noi_cerchiamo_un_ristorante.mp3"
+    },
+    {
+        "id": 18,
+        "prompt": "Voi {input} (parlare) con gli amici.",
+        "answer": "parlate",
+        "translation": "You talk with friends.",
+        "audio": "18_Voi_parlate_con_gli_amici.mp3"
+    },
+    {
+        "id": 19,
+        "prompt": "Loro {input} (ballare) insieme.",
+        "answer": "ballano",
+        "translation": "They dance together.",
+        "audio": "19_Loro_ballano_insieme.mp3"
+    },
+    {
+        "id": 20,
+        "prompt": "Io {input} (sperare) di venire.",
+        "answer": "spero",
+        "translation": "I hope to come.",
+        "audio": "20_Io_spero_di_venire.mp3"
+    },
+    {
+        "id": 21,
+        "prompt": "Tu {input} (chiamare) Maria.",
+        "answer": "chiami",
+        "translation": "You call Maria.",
+        "audio": "21_Tu_chiami_Maria.mp3"
+    },
+    {
+        "id": 22,
+        "prompt": "Lui {input} (entrare) in casa.",
+        "answer": "entra",
+        "translation": "He enters the house.",
+        "audio": "22_Lui_entra_in_casa.mp3"
+    },
+    {
+        "id": 23,
+        "prompt": "Noi {input} (usare) il computer.",
+        "answer": "usiamo",
+        "translation": "We use the computer.",
+        "audio": "23_Noi_usiamo_il_computer.mp3"
+    },
+    {
+        "id": 24,
+        "prompt": "Voi {input} (incontrare) gli amici.",
+        "answer": "incontrate",
+        "translation": "You meet friends.",
+        "audio": "24_Voi_incontrate_gli_amici.mp3"
+    },
+    {
+        "id": 25,
+        "prompt": "Loro {input} (parcheggiare) la macchina.",
+        "answer": "parcheggiano",
+        "translation": "They park the car.",
+        "audio": "25_Loro_parcheggiano_la_macchina.mp3"
+    },
+    {
+        "id": 26,
+        "prompt": "Io {input} (lavorare) tutti i giorni.",
+        "answer": "lavoro",
+        "translation": "I work every day.",
+        "audio": "26_Io_lavoro_tutti_i_giorni.mp3"
+    },
+    {
+        "id": 27,
+        "prompt": "Tu {input} (mangiare) la pizza.",
+        "answer": "mangi",
+        "translation": "You eat pizza.",
+        "audio": "27_Tu_mangi_la_pizza.mp3"
+    },
+    {
+        "id": 28,
+        "prompt": "Lui {input} (aspettare) l'autobus.",
+        "answer": "aspetta",
+        "translation": "He waits for the bus.",
+        "audio": "28_Lui_aspetta_lautobus.mp3"
+    },
+    {
+        "id": 29,
+        "prompt": "Noi {input} (cucinare) la cena.",
+        "answer": "cuciniamo",
+        "translation": "We cook dinner.",
+        "audio": "29_Noi_cuciniamo_la_cena.mp3"
+    },
+    {
+        "id": 30,
+        "prompt": "Voi {input} (giocare) a carte.",
+        "answer": "giocate",
+        "translation": "You play cards.",
+        "audio": "30_Voi_giocate_a_carte.mp3"
+    },
+    {
+        "id": 31,
+        "prompt": "Loro {input} (visitare) il museo.",
+        "answer": "visitano",
+        "translation": "They visit the museum.",
+        "audio": "31_Loro_visitano_il_museo.mp3"
+    },
+    {
+        "id": 32,
+        "prompt": "Io {input} (studiare) l'italiano.",
+        "answer": "studio",
+        "translation": "I study Italian.",
+        "audio": "32_Io_studio_l'italiano.mp3"
+    },
+    {
+        "id": 33,
+        "prompt": "Tu {input} (amare) i libri.",
+        "answer": "ami",
+        "translation": "You love books.",
+        "audio": "33_Tu_ami_i_libri.mp3"
+    },
+    {
+        "id": 34,
+        "prompt": "Lui {input} (cercare) il telefono.",
+        "answer": "cerca",
+        "translation": "He looks for the phone.",
+        "audio": "34_Lui_cerca_il_telefono.mp3"
+    },
+    {
+        "id": 35,
+        "prompt": "Noi {input} (camminare) in montagna.",
+        "answer": "camminiamo",
+        "translation": "We walk in the mountains.",
+        "audio": "35_Noi_camminiamo_in_montagna.mp3"
+    },
+    {
+        "id": 36,
+        "prompt": "Voi {input} (cucinare) la pasta.",
+        "answer": "cucinate",
+        "translation": "You cook pasta.",
+        "audio": "36_Voi_cucinate_la_pasta.mp3"
+    },
+    {
+        "id": 37,
+        "prompt": "Loro {input} (chiamare) il dottore.",
+        "answer": "chiamano",
+        "translation": "They call the doctor.",
+        "audio": "37_Loro_chiamano_il_dottore.mp3"
+    },
+    {
+        "id": 38,
+        "prompt": "Io {input} (guardare) un film.",
+        "answer": "guardo",
+        "translation": "I watch a movie.",
+        "audio": "38_Io_guardo_un_film.mp3"
+    },
+    {
+        "id": 39,
+        "prompt": "Tu {input} (ballare) bene.",
+        "answer": "balli",
+        "translation": "You dance well.",
+        "audio": "39_Tu_balli_bene.mp3"
+    },
+    {
+        "id": 40,
+        "prompt": "Lui {input} (parlare) inglese.",
+        "answer": "parla",
+        "translation": "He speaks English.",
+        "audio": "40_Lui_parla_inglese.mp3"
+    },
+    {
+        "id": 41,
+        "prompt": "Noi {input} (comprare) i biglietti.",
+        "answer": "compriamo",
+        "translation": "We buy the tickets.",
+        "audio": "41_Noi_compriamo_i_biglietti.mp3"
+    },
+    {
+        "id": 42,
+        "prompt": "Voi {input} (amare) la natura.",
+        "answer": "amate",
+        "translation": "You love nature.",
+        "audio": "42_Voi_amate_la_natura.mp3"
+    },
+    {
+        "id": 43,
+        "prompt": "Loro {input} (guardare) la partita.",
+        "answer": "guardano",
+        "translation": "They watch the game.",
+        "audio": "43_Loro_guardano_la_partita.mp3"
+    },
+    {
+        "id": 44,
+        "prompt": "Io {input} (trovare) un lavoro.",
+        "answer": "trovo",
+        "translation": "I find a job.",
+        "audio": "44_Io_trovo_un_lavoro.mp3"
+    },
+    {
+        "id": 45,
+        "prompt": "Tu {input} (cercare) un ristorante.",
+        "answer": "cerchi",
+        "translation": "You look for a restaurant.",
+        "audio": "45_Tu_cerchi_un_ristorante.mp3"
+    },
+    {
+        "id": 46,
+        "prompt": "Lui {input} (parlare) con Maria.",
+        "answer": "parla",
+        "translation": "He talks with Maria.",
+        "audio": "46_Lui_parla_con_Maria.mp3"
+    },
+    {
+        "id": 47,
+        "prompt": "Noi {input} (camminare) sul mare.",
+        "answer": "camminiamo",
+        "translation": "We walk on the beach.",
+        "audio": "47_Noi_camminiamo_sul_mare.mp3"
+    },
+    {
+        "id": 48,
+        "prompt": "Voi {input} (cucinare) insieme.",
+        "answer": "cucinate",
+        "translation": "You cook together.",
+        "audio": "48_Voi_cucinate_insieme.mp3"
+    },
+    {
+        "id": 49,
+        "prompt": "Loro {input} (guardare) il tramonto.",
+        "answer": "guardano",
+        "translation": "They watch the sunset.",
+        "audio": "49_Loro_guardano_il_tramonto.mp3"
+    },
+    {
+        "id": 50,
+        "prompt": "Io {input} (mangiare) la torta.",
+        "answer": "mangio",
+        "translation": "I eat the cake.",
+        "audio": "50_Io_mangio_la_torta.mp3"
+    },
+    {
+        "id": 51,
+        "prompt": "Tu {input} (visitare) il museo.",
+        "answer": "visiti",
+        "translation": "You visit the museum.",
+        "audio": "51_Tu_visiti_il_museo.mp3"
+    },
+    {
+        "id": 52,
+        "prompt": "Lui {input} (guardare) la luna.",
+        "answer": "guarda",
+        "translation": "He watches the moon.",
+        "audio": "52_Lui_guarda_la_luna.mp3"
+    },
+    {
+        "id": 53,
+        "prompt": "Noi {input} (chiamare) un taxi.",
+        "answer": "chiamiamo",
+        "translation": "We call a taxi.",
+        "audio": "53_Noi_chiamiamo_un_taxi.mp3"
+    },
+    {
+        "id": 54,
+        "prompt": "Voi {input} (parlare) al telefono.",
+        "answer": "parlate",
+        "translation": "You talk on the phone.",
+        "audio": "54_Voi_parlate_al_telefono.mp3"
+    },
+    {
+        "id": 55,
+        "prompt": "Loro {input} (amare) la pizza.",
+        "answer": "amano",
+        "translation": "They love pizza.",
+        "audio": "55_Loro_amano_la_pizza.mp3"
+    },
+    {
+        "id": 56,
+        "prompt": "Io {input} (comprare) un regalo.",
+        "answer": "compro",
+        "translation": "I buy a gift.",
+        "audio": "56_Io_compro_un_regalo.mp3"
+    },
+    {
+        "id": 57,
+        "prompt": "Tu {input} (guardare) la televisione.",
+        "answer": "guardi",
+        "translation": "You watch television.",
+        "audio": "57_Tu_guardi_la_televisione.mp3"
+    },
+    {
+        "id": 58,
+        "prompt": "Lui {input} (parlare) con il professore.",
+        "answer": "parla",
+        "translation": "He talks with the professor.",
+        "audio": "58_Lui_parla_con_il_professore.mp3"
+    },
+    {
+        "id": 59,
+        "prompt": "Noi {input} (ballare) al matrimonio.",
+        "answer": "balliamo",
+        "translation": "We dance at the wedding.",
+        "audio": "59_Noi_balliamo_al_matrimonio.mp3"
+    },
+    {
+        "id": 60,
+        "prompt": "Voi {input} (camminare) in centro.",
+        "answer": "camminate",
+        "translation": "You walk downtown.",
+        "audio": "60_Voi_camminate_in_centro.mp3"
+    },
+    {
+        "id": 61,
+        "prompt": "Loro {input} (cucinare) per gli amici.",
+        "answer": "cucinano",
+        "translation": "They cook for friends.",
+        "audio": "61_Loro_cucinano_per_gli_amici.mp3"
+    },
+    {
+        "id": 62,
+        "prompt": "Io {input} (amare) il gelato.",
+        "answer": "amo",
+        "translation": "I love ice cream.",
+        "audio": "62_Io_amo_il_gelato.mp3"
+    },
+    {
+        "id": 63,
+        "prompt": "Tu {input} (chiamare) il servizio clienti.",
+        "answer": "chiami",
+        "translation": "You call customer service.",
+        "audio": "63_Tu_chiami_il_servizio_clienti.mp3"
+    },
+    {
+        "id": 64,
+        "prompt": "Lui {input} (guardare) i bambini.",
+        "answer": "guarda",
+        "translation": "He watches the children.",
+        "audio": "64_Lui_guarda_i_bambini.mp3"
+    },
+    {
+        "id": 65,
+        "prompt": "Noi {input} (parlare) con gli insegnanti.",
+        "answer": "parliamo",
+        "translation": "We talk with the teachers.",
+        "audio": "65_Noi_parliamo_con_gli_insegnanti.mp3"
+    },
+    {
+        "id": 66,
+        "prompt": "Voi {input} (visitare) l'Italia.",
+        "answer": "visitate",
+        "translation": "You visit Italy.",
+        "audio": "66_Voi_visitate_lItalia.mp3"
+    },
+    {
+        "id": 67,
+        "prompt": "Loro {input} (comprare) frutta e verdura.",
+        "answer": "comprano",
+        "translation": "They buy fruits and vegetables.",
+        "audio": "67_Loro_comprano_frutta_e_verdura.mp3"
+    },
+    {
+        "id": 68,
+        "prompt": "Io {input} (guardare) il cielo.",
+        "answer": "guardo",
+        "translation": "I watch the sky.",
+        "audio": "68_Io_guardo_il_cielo.mp3"
+    },
+    {
+        "id": 69,
+        "prompt": "Tu {input} (camminare) al parco.",
+        "answer": "cammini",
+        "translation": "You walk in the park.",
+        "audio": "69_Tu_cammini_al_parco.mp3"
+    },
+    {
+        "id": 70,
+        "prompt": "Lui {input} (chiamare) la polizia.",
+        "answer": "chiama",
+        "translation": "He calls the police.",
+        "audio": "70_Lui_chiama_la_polizia.mp3"
+    },
+    {
+        "id": 71,
+        "prompt": "Noi {input} (cucinare) ogni giorno.",
+        "answer": "cuciniamo",
+        "translation": "We cook every day.",
+        "audio": "71_Noi_cuciniamo_ogni_giorno.mp3"
+    },
+    {
+        "id": 72,
+        "prompt": "Voi {input} (ballare) la salsa.",
+        "answer": "ballate",
+        "translation": "You dance salsa.",
+        "audio": "72_Voi_ballate_la_salsa.mp3"
+    },
+    {
+        "id": 73,
+        "prompt": "Loro {input} (visitare) la nonna.",
+        "answer": "visitano",
+        "translation": "They visit their grandmother.",
+        "audio": "73_Loro_visitano_la_nonna.mp3"
+    },
+    {
+        "id": 74,
+        "prompt": "Io {input} (parlare) francese.",
+        "answer": "parlo",
+        "translation": "I speak French.",
+        "audio": "74_Io_parlo_francese.mp3"
+    },
+    {
+        "id": 75,
+        "prompt": "Tu {input} (guardare) il tramonto.",
+        "answer": "guardi",
+        "translation": "You watch the sunset.",
+        "audio": "75_Tu_guardi_il_tramonto.mp3"
+    },
+    {
+        "id": 76,
+        "prompt": "Lui {input} (amare) gli animali.",
+        "answer": "ama",
+        "translation": "He loves animals.",
+        "audio": "76_Lui_ama_gli_animali.mp3"
+    },
+    {
+        "id": 77,
+        "prompt": "Noi {input} (chiamare) gli amici.",
+        "answer": "chiamiamo",
+        "translation": "We call our friends.",
+        "audio": "77_Noi_chiamiamo_gli_amici.mp3"
+    },
+    {
+        "id": 78,
+        "prompt": "Voi {input} (cercare) un lavoro.",
+        "answer": "cercate",
+        "translation": "You look for a job.",
+        "audio": "78_Voi_cercate_un_lavoro.mp3"
+    },
+    {
+        "id": 79,
+        "prompt": "Loro {input} (mangiare) fuori.",
+        "answer": "mangiano",
+        "translation": "They eat out.",
+        "audio": "79_Loro_mangiano_fuori.mp3"
+    },
+    {
+        "id": 80,
+        "prompt": "Io {input} (camminare) con il cane.",
+        "answer": "cammino",
+        "translation": "I walk with the dog.",
+        "audio": "80_Io_cammino_con_il_cane.mp3"
+    },
+    {
+        "id": 81,
+        "prompt": "Tu {input} (parlare) con il dottore.",
+        "answer": "parli",
+        "translation": "You talk with the doctor.",
+        "audio": "81_Tu_parli_con_il_dottore.mp3"
+    },
+    {
+        "id": 82,
+        "prompt": "Lui {input} (ballare) molto bene.",
+        "answer": "balla",
+        "translation": "He dances very well.",
+        "audio": "82_Lui_balla_molto_bene.mp3"
+    },
+    {
+        "id": 83,
+        "prompt": "Noi {input} (guardare) una serie TV.",
+        "answer": "guardiamo",
+        "translation": "We watch a TV series.",
+        "audio": "83_Noi_guardiamo_una_serie_TV.mp3"
+    },
+    {
+        "id": 84,
+        "prompt": "Voi {input} (amare) la musica classica.",
+        "answer": "amate",
+        "translation": "You love classical music.",
+        "audio": "84_Voi_amate_la_musica_classica.mp3"
+    },
+    {
+        "id": 85,
+        "prompt": "Loro {input} (cercare) un albergo.",
+        "answer": "cercano",
+        "translation": "They look for a hotel.",
+        "audio": "85_Loro_cercano_un_albergo.mp3"
+    },
+    {
+        "id": 86,
+        "prompt": "Io {input} (mangiare) a mezzogiorno.",
+        "answer": "mangio",
+        "translation": "I eat at noon.",
+        "audio": "86_Io_mangio_a_mezzogiorno.mp3"
+    },
+    {
+        "id": 87,
+        "prompt": "Tu {input} (chiamare) tuo fratello.",
+        "answer": "chiami",
+        "translation": "You call your brother.",
+        "audio": "87_Tu_chiami_tuo_fratello.mp3"
+    },
+    {
+        "id": 88,
+        "prompt": "Lui {input} (camminare) sulla spiaggia.",
+        "answer": "cammina",
+        "translation": "He walks on the beach.",
+        "audio": "88_Lui_cammina_sulla_spiaggia.mp3"
+    },
+    {
+        "id": 89,
+        "prompt": "Noi {input} (parlare) spagnolo.",
+        "answer": "parliamo",
+        "translation": "We speak Spanish.",
+        "audio": "89_Noi_parliamo_spagnolo.mp3"
+    },
+    {
+        "id": 90,
+        "prompt": "Voi {input} (comprare) un nuovo computer.",
+        "answer": "comprate",
+        "translation": "You buy a new computer.",
+        "audio": "90_Voi_comprate_un_nuovo_computer.mp3"
+    },
+    {
+        "id": 91,
+        "prompt": "Loro {input} (guardare) il documentario.",
+        "answer": "guardano",
+        "translation": "They watch the documentary.",
+        "audio": "91_Loro_guardano_il_documentario.mp3"
+    },
+    {
+        "id": 92,
+        "prompt": "Io {input} (cercare) le scarpe.",
+        "answer": "cerco",
+        "translation": "I look for the shoes.",
+        "audio": "92_Io_cerco_le_scarpe.mp3"
+    },
+    {
+        "id": 93,
+        "prompt": "Tu {input} (amare) i fiori.",
+        "answer": "ami",
+        "translation": "You love flowers.",
+        "audio": "93_Tu_ami_i_fiori.mp3"
+    },
+    {
+        "id": 94,
+        "prompt": "Lui {input} (parlare) al microfono.",
+        "answer": "parla",
+        "translation": "He talks into the microphone.",
+        "audio": "94_Lui_parla_al_microfono.mp3"
+    },
+    {
+        "id": 95,
+        "prompt": "Noi {input} (camminare) per ore.",
+        "answer": "camminiamo",
+        "translation": "We walk for hours.",
+        "audio": "95_Noi_camminiamo_per_ore.mp3"
+    },
+    {
+        "id": 96,
+        "prompt": "Voi {input} (ballare) tutta la notte.",
+        "answer": "ballate",
+        "translation": "You dance all night.",
+        "audio": "96_Voi_ballate_tutta_la_notte.mp3"
+    },
+    {
+        "id": 97,
+        "prompt": "Loro {input} (chiamare) la reception.",
+        "answer": "chiamano",
+        "translation": "They call the reception.",
+        "audio": "97_Loro_chiamano_la_reception.mp3"
+    },
+    {
+        "id": 98,
+        "prompt": "Io {input} (guardare) l'alba.",
+        "answer": "guardo",
+        "translation": "I watch the sunrise.",
+        "audio": "98_Io_guardo_lalba.mp3"
+    },
+    {
+        "id": 99,
+        "prompt": "Tu {input} (parlare) troppo.",
+        "answer": "parli",
+        "translation": "You talk too much.",
+        "audio": "99_Tu_parli_troppo.mp3"
+    },
+    {
+        "id": 100,
+        "prompt": "Lui {input} (comprare) un'auto.",
+        "answer": "compra",
+        "translation": "He buys a car.",
+        "audio": "100_Lui_compra_unauto.mp3"
+    },
+    {
+        "id": 101,
+        "prompt": "Io {input} (visitare) il museo ogni settimana.",
+        "answer": "visito",
+        "translation": "I visit the museum every week.",
+        "audio": "101_Io_visito_il_museo_ogni_settimana.mp3"
+    },
+    {
+        "id": 102,
+        "prompt": "Tu {input} (mangiare) la pizza con gli amici.",
+        "answer": "mangi",
+        "translation": "You eat pizza with friends.",
+        "audio": "102_Tu_mangi_la_pizza_con_gli_amici.mp3"
+    },
+    {
+        "id": 103,
+        "prompt": "Lui {input} (guardare) il film al cinema.",
+        "answer": "guarda",
+        "translation": "He watches the movie at the cinema.",
+        "audio": "103_Lui_guarda_il_film_al_cinema.mp3"
+    },
+    {
+        "id": 104,
+        "prompt": "Noi {input} (parlare) al telefono ogni giorno.",
+        "answer": "parliamo",
+        "translation": "We talk on the phone every day.",
+        "audio": "104_Noi_parliamo_al_telefono_ogni_giorno.mp3"
+    },
+    {
+        "id": 105,
+        "prompt": "Voi {input} (ascoltare) la musica alla radio.",
+        "answer": "ascoltate",
+        "translation": "You listen to music on the radio.",
+        "audio": "105_Voi_ascoltate_la_musica_alla_radio.mp3"
+    },
+    {
+        "id": 106,
+        "prompt": "Loro {input} (comprare) i vestiti nuovi.",
+        "answer": "comprano",
+        "translation": "They buy new clothes.",
+        "audio": "106_Loro_comprano_i_vestiti_nuovi.mp3"
+    },
+    {
+        "id": 107,
+        "prompt": "Io {input} (cercare) un nuovo lavoro.",
+        "answer": "cerco",
+        "translation": "I am looking for a new job.",
+        "audio": "107_Io_cerco_un_nuovo_lavoro.mp3"
+    },
+    {
+        "id": 108,
+        "prompt": "Tu {input} (giocare) a calcio ogni sabato.",
+        "answer": "giochi",
+        "translation": "You play soccer every Saturday.",
+        "audio": "108_Tu_giochi_a_calcio_ogni_sabato.mp3"
+    },
+    {
+        "id": 109,
+        "prompt": "Lui {input} (lavorare) in un ufficio in centro.",
+        "answer": "lavora",
+        "translation": "He works in an office downtown.",
+        "audio": "109_Lui_lavora_in_un_ufficio_in_centro.mp3"
+    },
+    {
+        "id": 110,
+        "prompt": "Noi {input} (camminare) lungo il fiume.",
+        "answer": "camminiamo",
+        "translation": "We walk along the river.",
+        "audio": "110_Noi_camminiamo_lungo_il_fiume.mp3"
+    },
+    {
+        "id": 111,
+        "prompt": "Voi {input} (mangiare) fuori ogni venerdì.",
+        "answer": "mangiate",
+        "translation": "You eat out every Friday.",
+        "audio": "111_Voi_mangiate_fuori_ogni_venerdì.mp3"
+    },
+    {
+        "id": 112,
+        "prompt": "Loro {input} (studiare) per l'esame di italiano.",
+        "answer": "studiano",
+        "translation": "They study for the Italian exam.",
+        "audio": "112_Loro_studiano_per_lesame_di_italiano.mp3"
+    },
+    {
+        "id": 113,
+        "prompt": "Io {input} (chiamare) il dottore quando sto male.",
+        "answer": "chiamo",
+        "translation": "I call the doctor when I am sick.",
+        "audio": "113_Io_chiamo_il_dottore_quando_sto_male.mp3"
+    },
+    {
+        "id": 114,
+        "prompt": "Tu {input} (ascoltare) attentamente.",
+        "answer": "ascolti",
+        "translation": "You listen carefully.",
+        "audio": "114_Tu_ascolti_attentamente.mp3"
+    },
+    {
+        "id": 115,
+        "prompt": "Lui {input} (parlare) spesso con il vicino.",
+        "answer": "parla",
+        "translation": "He often talks with the neighbor.",
+        "audio": "115_Lui_parla_spesso_con_il_vicino.mp3"
+    },
+    {
+        "id": 116,
+        "prompt": "Noi {input} (preparare) la cena insieme.",
+        "answer": "prepariamo",
+        "translation": "We prepare dinner together.",
+        "audio": "116_Noi_prepariamo_la_cena_insieme.mp3"
+    },
+    {
+        "id": 117,
+        "prompt": "Voi {input} (guardare) il telegiornale ogni sera.",
+        "answer": "guardate",
+        "translation": "You watch the news every evening.",
+        "audio": "117_Voi_guardate_il_telegiornale_ogni_sera.mp3"
+    },
+    {
+        "id": 118,
+        "prompt": "Loro {input} (cercare) la soluzione al problema.",
+        "answer": "cercano",
+        "translation": "They look for the solution to the problem.",
+        "audio": "118_Loro_cercano_la_soluzione_al_problema.mp3"
+    },
+    {
+        "id": 119,
+        "prompt": "Io {input} (viaggiare) spesso per lavoro.",
+        "answer": "viaggio",
+        "translation": "I travel often for work.",
+        "audio": "119_Io_viaggio_spesso_per_lavoro.mp3"
+    },
+    {
+        "id": 120,
+        "prompt": "Tu {input} (giocare) con i tuoi figli.",
+        "answer": "giochi",
+        "translation": "You play with your children.",
+        "audio": "120_Tu_giochi_con_i_tuoi_figli.mp3"
+    },
+    {
+        "id": 121,
+        "prompt": "Lui {input} (camminare) al parco ogni mattina.",
+        "answer": "cammina",
+        "translation": "He walks in the park every morning.",
+        "audio": "121_Lui_cammina_al_parco_ogni_mattina.mp3"
+    },
+    {
+        "id": 122,
+        "prompt": "Noi {input} (parlare) di politica.",
+        "answer": "parliamo",
+        "translation": "We talk about politics.",
+        "audio": "122_Noi_parliamo_di_politica.mp3"
+    },
+    {
+        "id": 123,
+        "prompt": "Voi {input} (mangiare) il gelato in estate.",
+        "answer": "mangiate",
+        "translation": "You eat ice cream in summer.",
+        "audio": "123_Voi_mangiate_il_gelato_in_estate.mp3"
+    },
+    {
+        "id": 124,
+        "prompt": "Loro {input} (guardare) la TV dopo cena.",
+        "answer": "guardano",
+        "translation": "They watch TV after dinner.",
+        "audio": "124_Loro_guardano_la_TV_dopo_cena.mp3"
+    },
+    {
+        "id": 125,
+        "prompt": "Io {input} (amare) la mia famiglia.",
+        "answer": "amo",
+        "translation": "I love my family.",
+        "audio": "125_Io_amo_la_mia_famiglia.mp3"
+    },
+    {
+        "id": 126,
+        "prompt": "Tu {input} (chiamare) il servizio clienti.",
+        "answer": "chiami",
+        "translation": "You call customer service.",
+        "audio": "126_Tu_chiami_il_servizio_clienti.mp3"
+    },
+    {
+        "id": 127,
+        "prompt": "Lui {input} (visitare) i suoi nonni ogni mese.",
+        "answer": "visita",
+        "translation": "He visits his grandparents every month.",
+        "audio": "127_Lui_visita_i_suoi_nonni_ogni_mese.mp3"
+    },
+    {
+        "id": 128,
+        "prompt": "Noi {input} (cercare) un ristorante italiano.",
+        "answer": "cerchiamo",
+        "translation": "We look for an Italian restaurant.",
+        "audio": "128_Noi_cerchiamo_un_ristorante_italiano.mp3"
+    },
+    {
+        "id": 129,
+        "prompt": "Voi {input} (lavorare) fino a tardi.",
+        "answer": "lavorate",
+        "translation": "You work until late.",
+        "audio": "129_Voi_lavorate_fino_a_tardi.mp3"
+    },
+    {
+        "id": 130,
+        "prompt": "Loro {input} (giocare) a pallavolo in spiaggia.",
+        "answer": "giocano",
+        "translation": "They play volleyball on the beach.",
+        "audio": "130_Loro_giocano_a_pallavolo_in_spiaggia.mp3"
+    },
+    {
+        "id": 131,
+        "prompt": "Io {input} (camminare) con il cane ogni sera.",
+        "answer": "cammino",
+        "translation": "I walk with the dog every evening.",
+        "audio": "131_Io_cammino_con_il_cane_ogni_sera.mp3"
+    },
+    {
+        "id": 132,
+        "prompt": "Tu {input} (parlare) troppo velocemente.",
+        "answer": "parli",
+        "translation": "You talk too fast.",
+        "audio": "132_Tu_parli_troppo_velocemente.mp3"
+    },
+    {
+        "id": 133,
+        "prompt": "Lui {input} (ascoltare) la musica classica.",
+        "answer": "ascolta",
+        "translation": "He listens to classical music.",
+        "audio": "133_Lui_ascolta_la_musica_classica.mp3"
+    },
+    {
+        "id": 134,
+        "prompt": "Noi {input} (preparare) i bagagli per il viaggio.",
+        "answer": "prepariamo",
+        "translation": "We prepare the luggage for the trip.",
+        "audio": "134_Noi_prepariamo_i_bagagli_per_il_viaggio.mp3"
+    },
+    {
+        "id": 135,
+        "prompt": "Voi {input} (mangiare) insieme ogni domenica.",
+        "answer": "mangiate",
+        "translation": "You eat together every Sunday.",
+        "audio": "135_Voi_mangiate_insieme_ogni_domenica.mp3"
+    },
+    {
+        "id": 136,
+        "prompt": "Loro {input} (cercare) un nuovo appartamento.",
+        "answer": "cercano",
+        "translation": "They look for a new apartment.",
+        "audio": "136_Loro_cercano_un_nuovo_appartamento.mp3"
+    },
+    {
+        "id": 137,
+        "prompt": "Io {input} (parlare) con il professore dopo la lezione.",
+        "answer": "parlo",
+        "translation": "I talk with the professor after the lesson.",
+        "audio": "137_Io_parlo_con_il_professore_dopo_la_lezione.mp3"
+    },
+    {
+        "id": 138,
+        "prompt": "Tu {input} (comprare) i biglietti del treno.",
+        "answer": "compri",
+        "translation": "You buy the train tickets.",
+        "audio": "138_Tu_compri_i_biglietti_del_treno.mp3"
+    },
+    {
+        "id": 139,
+        "prompt": "Lui {input} (guardare) le stelle di notte.",
+        "answer": "guarda",
+        "translation": "He watches the stars at night.",
+        "audio": "139_Lui_guarda_le_stelle_di_notte.mp3"
+    },
+    {
+        "id": 140,
+        "prompt": "Noi {input} (ascoltare) le notizie alla radio.",
+        "answer": "ascoltiamo",
+        "translation": "We listen to the news on the radio.",
+        "audio": "140_Noi_ascoltiamo_le_notizie_alla_radio.mp3"
+    },
+    {
+        "id": 141,
+        "prompt": "Voi {input} (visitare) i musei quando viaggiate.",
+        "answer": "visitate",
+        "translation": "You visit museums when you travel.",
+        "audio": "141_Voi_visitate_i_musei_quando_viaggiate.mp3"
+    },
+    {
+        "id": 142,
+        "prompt": "Loro {input} (camminare) in campagna durante il weekend.",
+        "answer": "camminano",
+        "translation": "They walk in the countryside during the weekend.",
+        "audio": "142_Loro_camminano_in_campagna_durante_il_weekend.mp3"
+    },
+    {
+        "id": 143,
+        "prompt": "Io {input} (amare) cucinare per la mia famiglia.",
+        "answer": "amo",
+        "translation": "I love to cook for my family.",
+        "audio": "143_Io_amo_cucinare_per_la_mia_famiglia.mp3"
+    },
+    {
+        "id": 144,
+        "prompt": "Tu {input} (parlare) con il direttore dell'azienda.",
+        "answer": "parli",
+        "translation": "You talk with the company director.",
+        "audio": "144_Tu_parli_con_il_direttore_dellazienda.mp3"
+    },
+    {
+        "id": 145,
+        "prompt": "Lui {input} (cercare) una risposta al problema.",
+        "answer": "cerca",
+        "translation": "He looks for an answer to the problem.",
+        "audio": "145_Lui_cerca_una_risposta_al_problema.mp3"
+    },
+    {
+        "id": 146,
+        "prompt": "Noi {input} (preparare) una festa di compleanno.",
+        "answer": "prepariamo",
+        "translation": "We prepare a birthday party.",
+        "audio": "146_Noi_prepariamo_una_festa_di_compleanno.mp3"
+    },
+    {
+        "id": 147,
+        "prompt": "Voi {input} (mangiare) troppi dolci.",
+        "answer": "mangiate",
+        "translation": "You eat too many sweets.",
+        "audio": "147_Voi_mangiate_troppi_dolci.mp3"
+    },
+    {
+        "id": 148,
+        "prompt": "Loro {input} (guardare) un documentario sugli animali.",
+        "answer": "guardano",
+        "translation": "They watch a documentary about animals.",
+        "audio": "148_Loro_guardano_un_documentario_sugli_animali.mp3"
+    },
+    {
+        "id": 149,
+        "prompt": "Io {input} (chiamare) il taxi per andare in aeroporto.",
+        "answer": "chiamo",
+        "translation": "I call the taxi to go to the airport.",
+        "audio": "149_Io_chiamo_il_taxi_per_andare_in_aeroporto.mp3"
+    },
+    {
+        "id": 150,
+        "prompt": "Tu {input} (visitare) la biblioteca ogni settimana.",
+        "answer": "visiti",
+        "translation": "You visit the library every week.",
+        "audio": "150_Tu_visiti_la_biblioteca_ogni_settimana.mp3"
+    },
+    {
+        "id": 151,
+        "prompt": "Lui {input} (lavorare) come insegnante di matematica.",
+        "answer": "lavora",
+        "translation": "He works as a math teacher.",
+        "audio": "151_Lui_lavora_come_insegnante_di_matematica.mp3"
+    },
+    {
+        "id": 152,
+        "prompt": "Noi {input} (parlare) di sport con gli amici.",
+        "answer": "parliamo",
+        "translation": "We talk about sports with friends.",
+        "audio": "152_Noi_parliamo_di_sport_con_gli_amici.mp3"
+    },
+    {
+        "id": 153,
+        "prompt": "Voi {input} (cercare) un buon ristorante.",
+        "answer": "cercate",
+        "translation": "You look for a good restaurant.",
+        "audio": "153_Voi_cercate_un_buon_ristorante.mp3"
+    },
+    {
+        "id": 154,
+        "prompt": "Loro {input} (giocare) a carte ogni sera.",
+        "answer": "giocano",
+        "translation": "They play cards every evening.",
+        "audio": "154_Loro_giocano_a_carte_ogni_sera.mp3"
+    },
+    {
+        "id": 155,
+        "prompt": "Io {input} (camminare) al lavoro ogni giorno.",
+        "answer": "cammino",
+        "translation": "I walk to work every day.",
+        "audio": "155_Io_cammino_al_lavoro_ogni_giorno.mp3"
+    },
+    {
+        "id": 156,
+        "prompt": "Tu {input} (ascoltare) la musica jazz.",
+        "answer": "ascolti",
+        "translation": "You listen to jazz music.",
+        "audio": "156_Tu_ascolti_la_musica_jazz.mp3"
+    },
+    {
+        "id": 157,
+        "prompt": "Lui {input} (comprare) il giornale ogni mattina.",
+        "answer": "compra",
+        "translation": "He buys the newspaper every morning.",
+        "audio": "157_Lui_compra_il_giornale_ogni_mattina.mp3"
+    },
+    {
+        "id": 158,
+        "prompt": "Noi {input} (visitare) i nostri genitori ogni mese.",
+        "answer": "visitiamo",
+        "translation": "We visit our parents every month.",
+        "audio": "158_Noi_visitiamo_i_nostri_genitori_ogni_mese.mp3"
+    },
+    {
+        "id": 159,
+        "prompt": "Voi {input} (parlare) sempre di lavoro.",
+        "answer": "parlate",
+        "translation": "You always talk about work.",
+        "audio": "159_Voi_parlate_sempre_di_lavoro.mp3"
+    },
+    {
+        "id": 160,
+        "prompt": "Loro {input} (guardare) i bambini al parco.",
+        "answer": "guardano",
+        "translation": "They watch the children at the park.",
+        "audio": "160_Loro_guardano_i_bambini_al_parco.mp3"
+    },
+    {
+        "id": 161,
+        "prompt": "Io {input} (mangiare) una mela ogni giorno.",
+        "answer": "mangio",
+        "translation": "I eat an apple every day.",
+        "audio": "161_Io_mangio_una_mela_ogni_giorno.mp3"
+    },
+    {
+        "id": 162,
+        "prompt": "Tu {input} (cercare) le chiavi della macchina.",
+        "answer": "cerchi",
+        "translation": "You look for the car keys.",
+        "audio": "162_Tu_cerchi_le_chiavi_della_macchina.mp3"
+    },
+    {
+        "id": 163,
+        "prompt": "Lui {input} (parlare) con il direttore.",
+        "answer": "parla",
+        "translation": "He talks with the director.",
+        "audio": "163_Lui_parla_con_il_direttore.mp3"
+    },
+    {
+        "id": 164,
+        "prompt": "Noi {input} (visitare) il museo d'arte.",
+        "answer": "visitiamo",
+        "translation": "We visit the art museum.",
+        "audio": "164_Noi_visitiamo_il_museo_darte.mp3"
+    },
+    {
+        "id": 165,
+        "prompt": "Voi {input} (guardare) il film stasera.",
+        "answer": "guardate",
+        "translation": "You watch the movie tonight.",
+        "audio": "165_Voi_guardate_il_film_stasera.mp3"
+    },
+    {
+        "id": 166,
+        "prompt": "Loro {input} (giocare) a pallone nel parco.",
+        "answer": "giocano",
+        "translation": "They play ball in the park.",
+        "audio": "166_Loro_giocano_a_pallone_nel_parco.mp3"
+    },
+    {
+        "id": 167,
+        "prompt": "Io {input} (preparare) la colazione per tutti.",
+        "answer": "preparo",
+        "translation": "I prepare breakfast for everyone.",
+        "audio": "167_Io_preparo_la_colazione_per_tutti.mp3"
+    },
+    {
+        "id": 168,
+        "prompt": "Tu {input} (studiare) per l'esame.",
+        "answer": "studi",
+        "translation": "You study for the exam.",
+        "audio": "168_Tu_studi_per_lesame.mp3"
+    },
+    {
+        "id": 169,
+        "prompt": "Lui {input} (lavorare) in una fabbrica.",
+        "answer": "lavora",
+        "translation": "He works in a factory.",
+        "audio": "169_Lui_lavora_in_una_fabbrica.mp3"
+    },
+    {
+        "id": 170,
+        "prompt": "Noi {input} (parlare) sempre di calcio.",
+        "answer": "parliamo",
+        "translation": "We always talk about football.",
+        "audio": "170_Noi_parliamo_sempre_di_calcio.mp3"
+    },
+    {
+        "id": 171,
+        "prompt": "Voi {input} (mangiare) fuori ogni sabato.",
+        "answer": "mangiate",
+        "translation": "You eat out every Saturday.",
+        "audio": "171_Voi_mangiate_fuori_ogni_sabato.mp3"
+    },
+    {
+        "id": 172,
+        "prompt": "Loro {input} (visitare) nuovi posti durante le vacanze.",
+        "answer": "visitano",
+        "translation": "They visit new places during the holidays.",
+        "audio": "172_Loro_visitano_nuovi_posti_durante_le_vacanze.mp3"
+    },
+    {
+        "id": 173,
+        "prompt": "Io {input} (guardare) i cartoni animati con i bambini.",
+        "answer": "guardo",
+        "translation": "I watch cartoons with the kids.",
+        "audio": "173_Io_guardo_i_cartoni_animati_con_i_bambini.mp3"
+    },
+    {
+        "id": 174,
+        "prompt": "Tu {input} (cercare) un libro interessante.",
+        "answer": "cerchi",
+        "translation": "You look for an interesting book.",
+        "audio": "174_Tu_cerchi_un_libro_interessante.mp3"
+    },
+    {
+        "id": 175,
+        "prompt": "Lui {input} (giocare) a scacchi con il nonno.",
+        "answer": "gioca",
+        "translation": "He plays chess with his grandfather.",
+        "audio": "175_Lui_gioca_a_scacchi_con_il_nonno.mp3"
+    },
+    {
+        "id": 176,
+        "prompt": "Noi {input} (preparare) un pranzo speciale.",
+        "answer": "prepariamo",
+        "translation": "We prepare a special lunch.",
+        "audio": "176_Noi_prepariamo_un_pranzo_speciale.mp3"
+    },
+    {
+        "id": 177,
+        "prompt": "Voi {input} (studiare) insieme per il test.",
+        "answer": "studiate",
+        "translation": "You study together for the test.",
+        "audio": "177_Voi_studiate_insieme_per_il_test.mp3"
+    },
+    {
+        "id": 178,
+        "prompt": "Loro {input} (lavorare) come volontari.",
+        "answer": "lavorano",
+        "translation": "They work as volunteers.",
+        "audio": "178_Loro_lavorano_come_volontari.mp3"
+    },
+    {
+        "id": 179,
+        "prompt": "Io {input} (parlare) con il professore di storia.",
+        "answer": "parlo",
+        "translation": "I talk with the history professor.",
+        "audio": "179_Io_parlo_con_il_professore_di_storia.mp3"
+    },
+    {
+        "id": 180,
+        "prompt": "Tu {input} (visitare) i parenti in campagna.",
+        "answer": "visiti",
+        "translation": "You visit relatives in the countryside.",
+        "audio": "180_Tu_visiti_i_parenti_in_campagna.mp3"
+    },
+    {
+        "id": 181,
+        "prompt": "Lui {input} (guardare) il tramonto dal balcone.",
+        "answer": "guarda",
+        "translation": "He watches the sunset from the balcony.",
+        "audio": "181_Lui_guarda_il_tramonto_dal_balcone.mp3"
+    },
+    {
+        "id": 182,
+        "prompt": "Noi {input} (cercare) un ristorante aperto.",
+        "answer": "cerchiamo",
+        "translation": "We look for an open restaurant.",
+        "audio": "182_Noi_cerchiamo_un_ristorante_aperto.mp3"
+    },
+    {
+        "id": 183,
+        "prompt": "Voi {input} (giocare) a carte ogni sera.",
+        "answer": "giocate",
+        "translation": "You play cards every evening.",
+        "audio": "183_Voi_giocate_a_carte_ogni_sera.mp3"
+    },
+    {
+        "id": 184,
+        "prompt": "Loro {input} (preparare) il viaggio per le vacanze.",
+        "answer": "preparano",
+        "translation": "They prepare the trip for the holidays.",
+        "audio": "184_Loro_preparano_il_viaggio_per_le_vacanze.mp3"
+    },
+    {
+        "id": 185,
+        "prompt": "Io {input} (studiare) economia all'università.",
+        "answer": "studio",
+        "translation": "I study economics at university.",
+        "audio": "185_Io_studio_economia_alluniversità.mp3"
+    },
+    {
+        "id": 186,
+        "prompt": "Tu {input} (lavorare) come infermiere.",
+        "answer": "lavori",
+        "translation": "You work as a nurse.",
+        "audio": "186_Tu_lavori_come_infermiere.mp3"
+    },
+    {
+        "id": 187,
+        "prompt": "Lui {input} (parlare) del tempo con i vicini.",
+        "answer": "parla",
+        "translation": "He talks about the weather with the neighbors.",
+        "audio": "187_Lui_parla_del_tempo_con_i_vicini.mp3"
+    },
+    {
+        "id": 188,
+        "prompt": "Noi {input} (visitare) il museo ogni mese.",
+        "answer": "visitiamo",
+        "translation": "We visit the museum every month.",
+        "audio": "188_Noi_visitiamo_il_museo_ogni_mese.mp3"
+    },
+    {
+        "id": 189,
+        "prompt": "Voi {input} (guardare) un film horror.",
+        "answer": "guardate",
+        "translation": "You watch a horror movie.",
+        "audio": "189_Voi_guardate_un_film_horror.mp3"
+    },
+    {
+        "id": 190,
+        "prompt": "Loro {input} (cercare) un appartamento da affittare.",
+        "answer": "cercano",
+        "translation": "They look for an apartment to rent.",
+        "audio": "190_Loro_cercano_un_appartamento_da_affittare.mp3"
+    },
+    {
+        "id": 191,
+        "prompt": "Io {input} (giocare) con il gatto.",
+        "answer": "gioco",
+        "translation": "I play with the cat.",
+        "audio": "191_Io_gioco_con_il_gatto.mp3"
+    },
+    {
+        "id": 192,
+        "prompt": "Tu {input} (preparare) la valigia.",
+        "answer": "prepari",
+        "translation": "You pack the suitcase.",
+        "audio": "192_Tu_prepari_la_valigia.mp3"
+    },
+    {
+        "id": 193,
+        "prompt": "Lui {input} (studiare) legge.",
+        "answer": "studia",
+        "translation": "He studies law.",
+        "audio": "193_Lui_studia_legge.mp3"
+    },
+    {
+        "id": 194,
+        "prompt": "Noi {input} (lavorare) fino a tardi.",
+        "answer": "lavoriamo",
+        "translation": "We work until late.",
+        "audio": "194_Noi_lavoriamo_fino_a_tardi.mp3"
+    },
+    {
+        "id": 195,
+        "prompt": "Voi {input} (parlare) troppo forte.",
+        "answer": "parlate",
+        "translation": "You talk too loudly.",
+        "audio": "195_Voi_parlate_troppo_forte.mp3"
+    },
+    {
+        "id": 196,
+        "prompt": "Loro {input} (visitare) la città vecchia.",
+        "answer": "visitano",
+        "translation": "They visit the old city.",
+        "audio": "196_Loro_visitano_la_citta_vecchia.mp3"
+    },
+    {
+        "id": 197,
+        "prompt": "Io {input} (guardare) una partita di calcio.",
+        "answer": "guardo",
+        "translation": "I watch a football match.",
+        "audio": "197_Io_guardo_una_partita_di_calcio.mp3"
+    },
+    {
+        "id": 198,
+        "prompt": "Tu {input} (cercare) informazioni su internet.",
+        "answer": "cerchi",
+        "translation": "You search for information on the internet.",
+        "audio": "198_Tu_cerchi_informazioni_su_internet.mp3"
+    },
+    {
+        "id": 199,
+        "prompt": "Lui {input} (giocare) con i videogiochi.",
+        "answer": "gioca",
+        "translation": "He plays video games.",
+        "audio": "199_Lui_gioca_con_i_videogiochi.mp3"
+    },
+    {
+        "id": 200,
+        "prompt": "Noi {input} (preparare) una sorpresa per Marco.",
+        "answer": "prepariamo",
+        "translation": "We prepare a surprise for Marco.",
+        "audio": "200_Noi_prepariamo_una_sorpresa_per_Marco.mp3"
+    },
+    {
+        "id": 201,
+        "prompt": "Voi {input} (studiare) in biblioteca.",
+        "answer": "studiate",
+        "translation": "You study in the library.",
+        "audio": "201_Voi_studiate_in_biblioteca.mp3"
+    },
+    {
+        "id": 202,
+        "prompt": "Loro {input} (lavorare) come insegnanti.",
+        "answer": "lavorano",
+        "translation": "They work as teachers.",
+        "audio": "202_Loro_lavorano_come_insegnanti.mp3"
+    },
+    {
+        "id": 203,
+        "prompt": "Io {input} (parlare) tre lingue.",
+        "answer": "parlo",
+        "translation": "I speak three languages.",
+        "audio": "203_Io_parlo_tre_lingue.mp3"
+    },
+    {
+        "id": 204,
+        "prompt": "Tu {input} (visitare) il centro storico.",
+        "answer": "visiti",
+        "translation": "You visit the historic center.",
+        "audio": "204_Tu_visiti_il_centro_storico.mp3"
+    },
+    {
+        "id": 205,
+        "prompt": "Lui {input} (guardare) i video su YouTube.",
+        "answer": "guarda",
+        "translation": "He watches videos on YouTube.",
+        "audio": "205_Lui_guarda_i_video_su_YouTube.mp3"
+    },
+    {
+        "id": 206,
+        "prompt": "Noi {input} (cercare) un parcheggio.",
+        "answer": "cerchiamo",
+        "translation": "We look for a parking spot.",
+        "audio": "206_Noi_cerchiamo_un_parcheggio.mp3"
+    },
+    {
+        "id": 207,
+        "prompt": "Voi {input} (giocare) con i bambini.",
+        "answer": "giocate",
+        "translation": "You play with the children.",
+        "audio": "207_Voi_giocate_con_i_bambini.mp3"
+    },
+    {
+        "id": 208,
+        "prompt": "Loro {input} (preparare) i documenti per il viaggio.",
+        "answer": "preparano",
+        "translation": "They prepare the documents for the trip.",
+        "audio": "208_Loro_preparano_i_documenti_per_il_viaggio.mp3"
+    },
+    {
+        "id": 209,
+        "prompt": "Io {input} (studiare) la scienza.",
+        "answer": "studio",
+        "translation": "I study science.",
+        "audio": "209_Io_studio_la_scienza.mp3"
+    },
+    {
+        "id": 210,
+        "prompt": "Tu {input} (lavorare) nel reparto vendite.",
+        "answer": "lavori",
+        "translation": "You work in the sales department.",
+        "audio": "210_Tu_lavori_nel_reparto_vendite.mp3"
+    },
+    {
+        "id": 211,
+        "prompt": "Lui {input} (parlare) con i clienti ogni giorno.",
+        "answer": "parla",
+        "translation": "He talks with the clients every day.",
+        "audio": "211_Lui_parla_con_i_clienti_ogni_giorno.mp3"
+    },
+    {
+        "id": 212,
+        "prompt": "Noi {input} (visitare) gli amici il fine settimana.",
+        "answer": "visitiamo",
+        "translation": "We visit friends on weekends.",
+        "audio": "212_Noi_visitiamo_gli_amici_il_fine_settimana.mp3"
+    },
+    {
+        "id": 213,
+        "prompt": "Voi {input} (guardare) la pioggia dalla finestra.",
+        "answer": "guardate",
+        "translation": "You watch the rain from the window.",
+        "audio": "213_Voi_guardate_la_pioggia_dalla_finestra.mp3"
+    },
+    {
+        "id": 214,
+        "prompt": "Loro {input} (cercare) il loro cane smarrito.",
+        "answer": "cercano",
+        "translation": "They search for their lost dog.",
+        "audio": "214_Loro_cercano_il_loro_cane_smarrito.mp3"
+    },
+    {
+        "id": 215,
+        "prompt": "Io {input} (giocare) a tennis ogni mattina.",
+        "answer": "gioco",
+        "translation": "I play tennis every morning.",
+        "audio": "215_Io_gioco_a_tennis_ogni_mattina.mp3"
+    },
+    {
+        "id": 216,
+        "prompt": "Tu {input} (preparare) la cena ogni sera.",
+        "answer": "prepari",
+        "translation": "You prepare dinner every evening.",
+        "audio": "216_Tu_prepari_la_cena_ogni_sera.mp3"
+    },
+    {
+        "id": 217,
+        "prompt": "Lui {input} (studiare) molto duramente.",
+        "answer": "studia",
+        "translation": "He studies very hard.",
+        "audio": "217_Lui_studia_molto_duramente.mp3"
+    },
+    {
+        "id": 218,
+        "prompt": "Noi {input} (lavorare) insieme in ufficio.",
+        "answer": "lavoriamo",
+        "translation": "We work together in the office.",
+        "audio": "218_Noi_lavoriamo_insieme_in_ufficio.mp3"
+    },
+    {
+        "id": 219,
+        "prompt": "Voi {input} (parlare) con gli insegnanti.",
+        "answer": "parlate",
+        "translation": "You talk with the teachers.",
+        "audio": "219_Voi_parlate_con_gli_insegnanti.mp3"
+    },
+    {
+        "id": 220,
+        "prompt": "Loro {input} (visitare) la fiera del libro.",
+        "answer": "visitano",
+        "translation": "They visit the book fair.",
+        "audio": "220_Loro_visitano_la_fiera_del_libro.mp3"
+    },
+    {
+        "id": 221,
+        "prompt": "Io {input} (guardare) il mare dalla finestra.",
+        "answer": "guardo",
+        "translation": "I watch the sea from the window.",
+        "audio": "221_Io_guardo_il_mare_dalla_finestra.mp3"
+    },
+    {
+        "id": 222,
+        "prompt": "Tu {input} (cercare) un buon ristorante.",
+        "answer": "cerchi",
+        "translation": "You look for a good restaurant.",
+        "audio": "222_Tu_cerchi_un_buon_ristorante.mp3"
+    },
+    {
+        "id": 223,
+        "prompt": "Lui {input} (giocare) a basket nel cortile.",
+        "answer": "gioca",
+        "translation": "He plays basketball in the courtyard.",
+        "audio": "223_Lui_gioca_a_basket_nel_cortile.mp3"
+    },
+    {
+        "id": 224,
+        "prompt": "Noi {input} (preparare) un dolce per il compleanno.",
+        "answer": "prepariamo",
+        "translation": "We prepare a cake for the birthday.",
+        "audio": "224_Noi_prepariamo_un_dolce_per_il_compleanno.mp3"
+    },
+    {
+        "id": 225,
+        "prompt": "Voi {input} (studiare) la geografia.",
+        "answer": "studiate",
+        "translation": "You study geography.",
+        "audio": "225_Voi_studiate_la_geografia.mp3"
+    },
+    {
+        "id": 226,
+        "prompt": "Loro {input} (lavorare) in una grande azienda.",
+        "answer": "lavorano",
+        "translation": "They work in a big company.",
+        "audio": "226_Loro_lavorano_in_una_grande_azienda.mp3"
+    },
+    {
+        "id": 227,
+        "prompt": "Io {input} (parlare) con il capo.",
+        "answer": "parlo",
+        "translation": "I talk with the boss.",
+        "audio": "227_Io_parlo_con_il_capo.mp3"
+    },
+    {
+        "id": 228,
+        "prompt": "Tu {input} (visitare) una città nuova.",
+        "answer": "visiti",
+        "translation": "You visit a new city.",
+        "audio": "228_Tu_visiti_una_citta_nuova.mp3"
+    },
+    {
+        "id": 229,
+        "prompt": "Lui {input} (guardare) un documentario interessante.",
+        "answer": "guarda",
+        "translation": "He watches an interesting documentary.",
+        "audio": "229_Lui_guarda_un_documentario_interessante.mp3"
+    },
+    {
+        "id": 230,
+        "prompt": "Noi {input} (cercare) un nuovo lavoro.",
+        "answer": "cerchiamo",
+        "translation": "We look for a new job.",
+        "audio": "230_Noi_cerchiamo_un_nuovo_lavoro.mp3"
+    },
+    {
+        "id": 231,
+        "prompt": "Voi {input} (giocare) a pallone.",
+        "answer": "giocate",
+        "translation": "You play ball.",
+        "audio": "231_Voi_giocate_a_pallone.mp3"
+    },
+    {
+        "id": 232,
+        "prompt": "Loro {input} (preparare) la tavola per la cena.",
+        "answer": "preparano",
+        "translation": "They set the table for dinner.",
+        "audio": "232_Loro_preparano_la_tavola_per_la_cena.mp3"
+    },
+    {
+        "id": 233,
+        "prompt": "Io {input} (studiare) la biologia.",
+        "answer": "studio",
+        "translation": "I study biology.",
+        "audio": "233_Io_studio_la_biologia.mp3"
+    },
+    {
+        "id": 234,
+        "prompt": "Tu {input} (lavorare) come meccanico.",
+        "answer": "lavori",
+        "translation": "You work as a mechanic.",
+        "audio": "234_Tu_lavori_come_meccanico.mp3"
+    },
+    {
+        "id": 235,
+        "prompt": "Lui {input} (parlare) al telefono tutto il giorno.",
+        "answer": "parla",
+        "translation": "He talks on the phone all day.",
+        "audio": "235_Lui_parla_al_telefono_tutto_il_giorno.mp3"
+    },
+    {
+        "id": 236,
+        "prompt": "Noi {input} (visitare) i parchi nazionali.",
+        "answer": "visitiamo",
+        "translation": "We visit the national parks.",
+        "audio": "236_Noi_visitiamo_i_parchi_nazionali.mp3"
+    },
+    {
+        "id": 237,
+        "prompt": "Voi {input} (guardare) il telegiornale.",
+        "answer": "guardate",
+        "translation": "You watch the news.",
+        "audio": "237_Voi_guardate_il_telegiornale.mp3"
+    },
+    {
+        "id": 238,
+        "prompt": "Loro {input} (cercare) i loro amici.",
+        "answer": "cercano",
+        "translation": "They look for their friends.",
+        "audio": "238_Loro_cercano_i_loro_amici.mp3"
+    },
+    {
+        "id": 239,
+        "prompt": "Io {input} (giocare) a carte con la famiglia.",
+        "answer": "gioco",
+        "translation": "I play cards with the family.",
+        "audio": "239_Io_gioco_a_carte_con_la_famiglia.mp3"
+    },
+    {
+        "id": 240,
+        "prompt": "Tu {input} (preparare) il pranzo per tutti.",
+        "answer": "prepari",
+        "translation": "You prepare lunch for everyone.",
+        "audio": "240_Tu_prepari_il_pranzo_per_tutti.mp3"
+    },
+    {
+        "id": 241,
+        "prompt": "Lui {input} (studiare) per diventare medico.",
+        "answer": "studia",
+        "translation": "He studies to become a doctor.",
+        "audio": "241_Lui_studia_per_diventare_medico.mp3"
+    },
+    {
+        "id": 242,
+        "prompt": "Noi {input} (lavorare) in giardino.",
+        "answer": "lavoriamo",
+        "translation": "We work in the garden.",
+        "audio": "242_Noi_lavoriamo_in_giardino.mp3"
+    },
+    {
+        "id": 243,
+        "prompt": "Voi {input} (parlare) inglese e francese.",
+        "answer": "parlate",
+        "translation": "You speak English and French.",
+        "audio": "243_Voi_parlate_inglese_e_francese.mp3"
+    },
+    {
+        "id": 244,
+        "prompt": "Loro {input} (visitare) i nonni durante le vacanze.",
+        "answer": "visitano",
+        "translation": "They visit their grandparents during the holidays.",
+        "audio": "244_Loro_visitano_i_nonni_durante_le_vacanze.mp3"
+    },
+    {
+        "id": 245,
+        "prompt": "Io {input} (guardare) la partita con gli amici.",
+        "answer": "guardo",
+        "translation": "I watch the game with friends.",
+        "audio": "245_Io_guardo_la_partita_con_gli_amici.mp3"
+    },
+    {
+        "id": 246,
+        "prompt": "Tu {input} (cercare) il miglior prezzo.",
+        "answer": "cerchi",
+        "translation": "You look for the best price.",
+        "audio": "246_Tu_cerchi_il_miglior_prezzo.mp3"
+    },
+    {
+        "id": 247,
+        "prompt": "Lui {input} (giocare) con il fratello.",
+        "answer": "gioca",
+        "translation": "He plays with his brother.",
+        "audio": "247_Lui_gioca_con_il_fratello.mp3"
+    },
+    {
+        "id": 248,
+        "prompt": "Noi {input} (preparare) la casa per gli ospiti.",
+        "answer": "prepariamo",
+        "translation": "We prepare the house for guests.",
+        "audio": "248_Noi_prepariamo_la_casa_per_gli_ospiti.mp3"
+    },
+    {
+        "id": 249,
+        "prompt": "Voi {input} (studiare) la storia.",
+        "answer": "studiate",
+        "translation": "You study history.",
+        "audio": "249_Voi_studiate_la_storia.mp3"
+    },
+    {
+        "id": 250,
+        "prompt": "Loro {input} (lavorare) nel settore sanitario.",
+        "answer": "lavorano",
+        "translation": "They work in the healthcare sector.",
+        "audio": "250_Loro_lavorano_nel_settore_sanitario.mp3"
+    },
+    {
+        "id": 251,
+        "prompt": "Io {input} (parlare) con i miei amici ogni giorno.",
+        "answer": "parlo",
+        "translation": "I talk with my friends every day.",
+        "audio": "251_Io_parlo_con_i_miei_amici_ogni_giorno.mp3"
+    },
+    {
+        "id": 252,
+        "prompt": "Tu {input} (visitare) il museo delle scienze.",
+        "answer": "visiti",
+        "translation": "You visit the science museum.",
+        "audio": "252_Tu_visiti_il_museo_delle_scienze.mp3"
+    },
+    {
+        "id": 253,
+        "prompt": "Lui {input} (guardare) i bambini giocare.",
+        "answer": "guarda",
+        "translation": "He watches the children play.",
+        "audio": "253_Lui_guarda_i_bambini_giocare.mp3"
+    },
+    {
+        "id": 254,
+        "prompt": "Noi {input} (cercare) la risposta giusta.",
+        "answer": "cerchiamo",
+        "translation": "We look for the right answer.",
+        "audio": "254_Noi_cerchiamo_la_risposta_giusta.mp3"
+    },
+    {
+        "id": 255,
+        "prompt": "Voi {input} (giocare) a calcio con gli amici.",
+        "answer": "giocate",
+        "translation": "You play football with friends.",
+        "audio": "255_Voi_giocate_a_calcio_con_gli_amici.mp3"
+    },
+    {
+        "id": 256,
+        "prompt": "Loro {input} (preparare) un discorso.",
+        "answer": "preparano",
+        "translation": "They prepare a speech.",
+        "audio": "256_Loro_preparano_un_discorso.mp3"
+    },
+    {
+        "id": 257,
+        "prompt": "Io {input} (studiare) l'arte.",
+        "answer": "studio",
+        "translation": "I study art.",
+        "audio": "257_Io_studio_larte.mp3"
+    },
+    {
+        "id": 258,
+        "prompt": "Tu {input} (lavorare) nel settore IT.",
+        "answer": "lavori",
+        "translation": "You work in the IT sector.",
+        "audio": "258_Tu_lavori_nel_settore_IT.mp3"
+    },
+    {
+        "id": 259,
+        "prompt": "Lui {input} (parlare) con i vicini.",
+        "answer": "parla",
+        "translation": "He talks with the neighbors.",
+        "audio": "259_Lui_parla_con_i_vicini.mp3"
+    },
+    {
+        "id": 260,
+        "prompt": "Noi {input} (visitare) la spiaggia ogni estate.",
+        "answer": "visitiamo",
+        "translation": "We visit the beach every summer.",
+        "audio": "260_Noi_visitiamo_la_spiaggia_ogni_estate.mp3"
+    },
+    {
+        "id": 261,
+        "prompt": "Io {input} (visitare) il parco ogni mattina.",
+        "answer": "visito",
+        "translation": "I visit the park every morning.",
+        "audio": "261_Io_visito_il_parco_ogni_mattina.mp3"
+    },
+    {
+        "id": 262,
+        "prompt": "Tu {input} (mangiare) il gelato d'estate.",
+        "answer": "mangi",
+        "translation": "You eat ice cream in summer.",
+        "audio": "262_Tu_mangi_il_gelato_destate.mp3"
+    },
+    {
+        "id": 263,
+        "prompt": "Lui {input} (guardare) il telegiornale ogni sera.",
+        "answer": "guarda",
+        "translation": "He watches the news every evening.",
+        "audio": "263_Lui_guarda_il_telegiornale_ogni_sera.mp3"
+    },
+    {
+        "id": 264,
+        "prompt": "Noi {input} (parlare) con i nostri amici.",
+        "answer": "parliamo",
+        "translation": "We talk with our friends.",
+        "audio": "264_Noi_parliamo_con_i_nostri_amici.mp3"
+    },
+    {
+        "id": 265,
+        "prompt": "Voi {input} (cercare) una nuova casa.",
+        "answer": "cercate",
+        "translation": "You look for a new house.",
+        "audio": "265_Voi_cercate_una_nuova_casa.mp3"
+    },
+    {
+        "id": 266,
+        "prompt": "Loro {input} (giocare) a pallavolo ogni domenica.",
+        "answer": "giocano",
+        "translation": "They play volleyball every Sunday.",
+        "audio": "266_Loro_giocano_a_pallavolo_ogni_domenica.mp3"
+    },
+    {
+        "id": 267,
+        "prompt": "Io {input} (preparare) la colazione ogni mattina.",
+        "answer": "preparo",
+        "translation": "I prepare breakfast every morning.",
+        "audio": "267_Io_preparo_la_colazione_ogni_mattina.mp3"
+    },
+    {
+        "id": 268,
+        "prompt": "Tu {input} (studiare) in biblioteca.",
+        "answer": "studi",
+        "translation": "You study in the library.",
+        "audio": "268_Tu_studi_in_biblioteca.mp3"
+    },
+    {
+        "id": 269,
+        "prompt": "Lui {input} (lavorare) in un ristorante.",
+        "answer": "lavora",
+        "translation": "He works in a restaurant.",
+        "audio": "269_Lui_lavora_in_un_ristorante.mp3"
+    },
+    {
+        "id": 270,
+        "prompt": "Noi {input} (visitare) i nostri nonni ogni fine settimana.",
+        "answer": "visitiamo",
+        "translation": "We visit our grandparents every weekend.",
+        "audio": "270_Noi_visitiamo_i_nostri_nonni_ogni_fine_settimana.mp3"
+    },
+    {
+        "id": 271,
+        "prompt": "Voi {input} (mangiare) pizza ogni venerdì sera.",
+        "answer": "mangiate",
+        "translation": "You eat pizza every Friday night.",
+        "audio": "271_Voi_mangiate_pizza_ogni_venerdì_sera.mp3"
+    },
+    {
+        "id": 272,
+        "prompt": "Loro {input} (parlare) al telefono per ore.",
+        "answer": "parlano",
+        "translation": "They talk on the phone for hours.",
+        "audio": "272_Loro_parlano_al_telefono_per_ore.mp3"
+    },
+    {
+        "id": 273,
+        "prompt": "Io {input} (guardare) un film stasera.",
+        "answer": "guardo",
+        "translation": "I watch a movie tonight.",
+        "audio": "273_Io_guardo_un_film_stasera.mp3"
+    },
+    {
+        "id": 274,
+        "prompt": "Tu {input} (cercare) il libro che hai perso.",
+        "answer": "cerchi",
+        "translation": "You look for the book you lost.",
+        "audio": "274_Tu_cerchi_il_libro_che_hai_perso.mp3"
+    },
+    {
+        "id": 275,
+        "prompt": "Lui {input} (giocare) a calcio ogni sabato.",
+        "answer": "gioca",
+        "translation": "He plays football every Saturday.",
+        "audio": "275_Lui_gioca_a_calcio_ogni_sabato.mp3"
+    },
+    {
+        "id": 276,
+        "prompt": "Noi {input} (preparare) un progetto per la scuola.",
+        "answer": "prepariamo",
+        "translation": "We prepare a project for school.",
+        "audio": "276_Noi_prepariamo_un_progetto_per_la_scuola.mp3"
+    },
+    {
+        "id": 277,
+        "prompt": "Voi {input} (studiare) per l'esame di matematica.",
+        "answer": "studiate",
+        "translation": "You study for the math exam.",
+        "audio": "277_Voi_studiate_per_lesame_di_matematica.mp3"
+    },
+    {
+        "id": 278,
+        "prompt": "Loro {input} (lavorare) come medici.",
+        "answer": "lavorano",
+        "translation": "They work as doctors.",
+        "audio": "278_Loro_lavorano_come_medici.mp3"
+    },
+    {
+        "id": 279,
+        "prompt": "Io {input} (parlare) con il mio capo domani.",
+        "answer": "parlo",
+        "translation": "I talk with my boss tomorrow.",
+        "audio": "279_Io_parlo_con_il_mio_capo_domani.mp3"
+    },
+    {
+        "id": 280,
+        "prompt": "Tu {input} (visitare) il museo durante il viaggio.",
+        "answer": "visiti",
+        "translation": "You visit the museum during the trip.",
+        "audio": "280_Tu_visiti_il_museo_durante_il_viaggio.mp3"
+    },
+    {
+        "id": 281,
+        "prompt": "Lui {input} (guardare) i bambini al parco.",
+        "answer": "guarda",
+        "translation": "He watches the children at the park.",
+        "audio": "281_Lui_guarda_i_bambini_al_parco.mp3"
+    },
+    {
+        "id": 282,
+        "prompt": "Noi {input} (cercare) un nuovo ristorante.",
+        "answer": "cerchiamo",
+        "translation": "We look for a new restaurant.",
+        "audio": "282_Noi_cerchiamo_un_nuovo_ristorante.mp3"
+    },
+    {
+        "id": 283,
+        "prompt": "Voi {input} (giocare) a scacchi il pomeriggio.",
+        "answer": "giocate",
+        "translation": "You play chess in the afternoon.",
+        "audio": "283_Voi_giocate_a_scacchi_il_pomeriggio.mp3"
+    },
+    {
+        "id": 284,
+        "prompt": "Loro {input} (preparare) la tavola per la cena.",
+        "answer": "preparano",
+        "translation": "They set the table for dinner.",
+        "audio": "284_Loro_preparano_la_tavola_per_la_cena.mp3"
+    },
+    {
+        "id": 285,
+        "prompt": "Io {input} (studiare) la biologia.",
+        "answer": "studio",
+        "translation": "I study biology.",
+        "audio": "285_Io_studio_la_biologia.mp3"
+    },
+    {
+        "id": 286,
+        "prompt": "Tu {input} (lavorare) come meccanico.",
+        "answer": "lavori",
+        "translation": "You work as a mechanic.",
+        "audio": "286_Tu_lavori_come_meccanico.mp3"
+    },
+    {
+        "id": 287,
+        "prompt": "Lui {input} (parlare) al telefono tutto il giorno.",
+        "answer": "parla",
+        "translation": "He talks on the phone all day.",
+        "audio": "287_Lui_parla_al_telefono_tutto_il_giorno.mp3"
+    },
+    {
+        "id": 288,
+        "prompt": "Noi {input} (visitare) i parchi nazionali.",
+        "answer": "visitiamo",
+        "translation": "We visit the national parks.",
+        "audio": "288_Noi_visitiamo_i_parchi_nazionali.mp3"
+    },
+    {
+        "id": 289,
+        "prompt": "Voi {input} (guardare) il telegiornale.",
+        "answer": "guardate",
+        "translation": "You watch the news.",
+        "audio": "289_Voi_guardate_il_telegiornale.mp3"
+    },
+    {
+        "id": 290,
+        "prompt": "Loro {input} (cercare) i loro amici.",
+        "answer": "cercano",
+        "translation": "They look for their friends.",
+        "audio": "290_Loro_cercano_i_loro_amici.mp3"
+    },
+    {
+        "id": 291,
+        "prompt": "Io {input} (giocare) a carte con la famiglia.",
+        "answer": "gioco",
+        "translation": "I play cards with the family.",
+        "audio": "291_Io_gioco_a_carte_con_la_famiglia.mp3"
+    },
+    {
+        "id": 292,
+        "prompt": "Tu {input} (preparare) il pranzo per tutti.",
+        "answer": "prepari",
+        "translation": "You prepare lunch for everyone.",
+        "audio": "292_Tu_prepari_il_pranzo_per_tutti.mp3"
+    },
+    {
+        "id": 293,
+        "prompt": "Lui {input} (studiare) per diventare medico.",
+        "answer": "studia",
+        "translation": "He studies to become a doctor.",
+        "audio": "293_Lui_studia_per_diventare_medico.mp3"
+    },
+    {
+        "id": 294,
+        "prompt": "Noi {input} (lavorare) in giardino.",
+        "answer": "lavoriamo",
+        "translation": "We work in the garden.",
+        "audio": "294_Noi_lavoriamo_in_giardino.mp3"
+    },
+    {
+        "id": 295,
+        "prompt": "Voi {input} (parlare) inglese e francese.",
+        "answer": "parlate",
+        "translation": "You speak English and French.",
+        "audio": "295_Voi_parlate_inglese_e_francese.mp3"
+    },
+    {
+        "id": 296,
+        "prompt": "Loro {input} (visitare) i nonni durante le vacanze.",
+        "answer": "visitano",
+        "translation": "They visit their grandparents during the holidays.",
+        "audio": "296_Loro_visitano_i_nonni_durante_le_vacanze.mp3"
+    },
+    {
+        "id": 297,
+        "prompt": "Io {input} (guardare) la partita con gli amici.",
+        "answer": "guardo",
+        "translation": "I watch the game with friends.",
+        "audio": "297_Io_guardo_la_partita_con_gli_amici.mp3"
+    },
+    {
+        "id": 298,
+        "prompt": "Tu {input} (cercare) il miglior prezzo.",
+        "answer": "cerchi",
+        "translation": "You look for the best price.",
+        "audio": "298_Tu_cerchi_il_miglior_prezzo.mp3"
+    },
+    {
+        "id": 299,
+        "prompt": "Lui {input} (giocare) con il fratello.",
+        "answer": "gioca",
+        "translation": "He plays with his brother.",
+        "audio": "299_Lui_gioca_con_il_fratello.mp3"
+    },
+    {
+        "id": 300,
+        "prompt": "Noi {input} (preparare) la casa per gli ospiti.",
+        "answer": "prepariamo",
+        "translation": "We prepare the house for guests.",
+        "audio": "300_Noi_prepariamo_la_casa_per_gli_ospiti.mp3"
+    },
+    {
+        "id": 301,
+        "prompt": "Voi {input} (studiare) la storia.",
+        "answer": "studiate",
+        "translation": "You study history.",
+        "audio": "301_Voi_studiate_la_storia.mp3"
+    },
+    {
+        "id": 302,
+        "prompt": "Loro {input} (lavorare) nel settore sanitario.",
+        "answer": "lavorano",
+        "translation": "They work in the healthcare sector.",
+        "audio": "302_Loro_lavorano_nel_settore_sanitario.mp3"
+    },
+    {
+        "id": 303,
+        "prompt": "Io {input} (parlare) con i miei amici ogni giorno.",
+        "answer": "parlo",
+        "translation": "I talk with my friends every day.",
+        "audio": "303_Io_parlo_con_i_miei_amici_ogni_giorno.mp3"
+    },
+    {
+        "id": 304,
+        "prompt": "Tu {input} (visitare) il museo delle scienze.",
+        "answer": "visiti",
+        "translation": "You visit the science museum.",
+        "audio": "304_Tu_visiti_il_museo_delle_scienze.mp3"
+    },
+    {
+        "id": 305,
+        "prompt": "Lui {input} (guardare) i bambini giocare.",
+        "answer": "guarda",
+        "translation": "He watches the children play.",
+        "audio": "305_Lui_guarda_i_bambini_giocare.mp3"
+    },
+    {
+        "id": 306,
+        "prompt": "Noi {input} (cercare) la risposta giusta.",
+        "answer": "cerchiamo",
+        "translation": "We look for the right answer.",
+        "audio": "306_Noi_cerchiamo_la_risposta_giusta.mp3"
+    },
+    {
+        "id": 307,
+        "prompt": "Voi {input} (giocare) a calcio con gli amici.",
+        "answer": "giocate",
+        "translation": "You play football with friends.",
+        "audio": "307_Voi_giocate_a_calcio_con_gli_amici.mp3"
+    },
+    {
+        "id": 308,
+        "prompt": "Loro {input} (preparare) un discorso.",
+        "answer": "preparano",
+        "translation": "They prepare a speech.",
+        "audio": "308_Loro_preparano_un_discorso.mp3"
+    },
+    {
+        "id": 309,
+        "prompt": "Io {input} (studiare) l'arte.",
+        "answer": "studio",
+        "translation": "I study art.",
+        "audio": "309_Io_studio_larte.mp3"
+    },
+    {
+        "id": 310,
+        "prompt": "Tu {input} (lavorare) nel settore IT.",
+        "answer": "lavori",
+        "translation": "You work in the IT sector.",
+        "audio": "310_Tu_lavori_nel_settore_IT.mp3"
+    },
+    {
+        "id": 311,
+        "prompt": "Lui {input} (parlare) con i vicini.",
+        "answer": "parla",
+        "translation": "He talks with the neighbors.",
+        "audio": "311_Lui_parla_con_i_vicini.mp3"
+    },
+    {
+        "id": 312,
+        "prompt": "Noi {input} (visitare) la spiaggia ogni estate.",
+        "answer": "visitiamo",
+        "translation": "We visit the beach every summer.",
+        "audio": "312_Noi_visitiamo_la_spiaggia_ogni_estate.mp3"
+    },
+    {
+        "id": 313,
+        "prompt": "Voi {input} (guardare) le stelle di notte.",
+        "answer": "guardate",
+        "translation": "You watch the stars at night.",
+        "audio": "313_Voi_guardate_le_stelle_di_notte.mp3"
+    },
+    {
+        "id": 314,
+        "prompt": "Loro {input} (cercare) una soluzione al problema.",
+        "answer": "cercano",
+        "translation": "They look for a solution to the problem.",
+        "audio": "314_Loro_cercano_una_soluzione_al_problema.mp3"
+    },
+    {
+        "id": 315,
+        "prompt": "Io {input} (giocare) a tennis ogni domenica.",
+        "answer": "gioco",
+        "translation": "I play tennis every Sunday.",
+        "audio": "315_Io_gioco_a_tennis_ogni_domenica.mp3"
+    },
+    {
+        "id": 316,
+        "prompt": "Tu {input} (preparare) un esame importante.",
+        "answer": "prepari",
+        "translation": "You prepare for an important exam.",
+        "audio": "316_Tu_prepari_un_esame_importante.mp3"
+    },
+    {
+        "id": 317,
+        "prompt": "Lui {input} (studiare) lingue straniere.",
+        "answer": "studia",
+        "translation": "He studies foreign languages.",
+        "audio": "317_Lui_studia_lingue_straniere.mp3"
+    },
+    {
+        "id": 318,
+        "prompt": "Noi {input} (lavorare) in ufficio.",
+        "answer": "lavoriamo",
+        "translation": "We work in an office.",
+        "audio": "318_Noi_lavoriamo_in_ufficio.mp3"
+    },
+    {
+        "id": 319,
+        "prompt": "Voi {input} (parlare) al direttore.",
+        "answer": "parlate",
+        "translation": "You talk to the director.",
+        "audio": "319_Voi_parlate_al_direttore.mp3"
+    },
+    {
+        "id": 320,
+        "prompt": "Loro {input} (visitare) la torre storica.",
+        "answer": "visitano",
+        "translation": "They visit the historic tower.",
+        "audio": "320_Loro_visitano_la_torre_storica.mp3"
+    },
+    {
+        "id": 321,
+        "prompt": "Io {input} (guardare) gli animali allo zoo.",
+        "answer": "guardo",
+        "translation": "I watch the animals at the zoo.",
+        "audio": "321_Io_guardo_gli_animali_allo_zoo.mp3"
+    },
+    {
+        "id": 322,
+        "prompt": "Tu {input} (cercare) il regalo perfetto.",
+        "answer": "cerchi",
+        "translation": "You look for the perfect gift.",
+        "audio": "322_Tu_cerchi_il_regalo_perfetto.mp3"
+    },
+    {
+        "id": 323,
+        "prompt": "Lui {input} (giocare) a basket con gli amici.",
+        "answer": "gioca",
+        "translation": "He plays basketball with friends.",
+        "audio": "323_Lui_gioca_a_basket_con_gli_amici.mp3"
+    },
+    {
+        "id": 324,
+        "prompt": "Noi {input} (preparare) la festa di compleanno.",
+        "answer": "prepariamo",
+        "translation": "We prepare the birthday party.",
+        "audio": "324_Noi_prepariamo_la_festa_di_compleanno.mp3"
+    },
+    {
+        "id": 325,
+        "prompt": "Voi {input} (studiare) la letteratura.",
+        "answer": "studiate",
+        "translation": "You study literature.",
+        "audio": "325_Voi_studiate_la_letteratura.mp3"
+    },
+    {
+        "id": 326,
+        "prompt": "Loro {input} (lavorare) in una fabbrica.",
+        "answer": "lavorano",
+        "translation": "They work in a factory.",
+        "audio": "326_Loro_lavorano_in_una_fabbrica.mp3"
+    },
+    {
+        "id": 327,
+        "prompt": "Io {input} (parlare) con il direttore della scuola.",
+        "answer": "parlo",
+        "translation": "I talk with the school principal.",
+        "audio": "327_Io_parlo_con_il_direttore_della_scuola.mp3"
+    },
+    {
+        "id": 328,
+        "prompt": "Tu {input} (visitare) il castello antico.",
+        "answer": "visiti",
+        "translation": "You visit the ancient castle.",
+        "audio": "328_Tu_visiti_il_castello_antico.mp3"
+    },
+    {
+        "id": 329,
+        "prompt": "Lui {input} (guardare) il tramonto ogni sera.",
+        "answer": "guarda",
+        "translation": "He watches the sunset every evening.",
+        "audio": "329_Lui_guarda_il_tramonto_ogni_sera.mp3"
+    },
+    {
+        "id": 330,
+        "prompt": "Noi {input} (cercare) la migliore soluzione.",
+        "answer": "cerchiamo",
+        "translation": "We look for the best solution.",
+        "audio": "330_Noi_cerchiamo_la_migliore_soluzione.mp3"
+    },
+    {
+        "id": 331,
+        "prompt": "Voi {input} (giocare) a calcetto.",
+        "answer": "giocate",
+        "translation": "You play five-a-side football.",
+        "audio": "331_Voi_giocate_a_calcetto.mp3"
+    },
+    {
+        "id": 332,
+        "prompt": "Loro {input} (preparare) il terreno per piantare.",
+        "answer": "preparano",
+        "translation": "They prepare the soil for planting.",
+        "audio": "332_Loro_preparano_il_terreno_per_piantare.mp3"
+    },
+    {
+        "id": 333,
+        "prompt": "Io {input} (studiare) informatica.",
+        "answer": "studio",
+        "translation": "I study computer science.",
+        "audio": "333_Io_studio_informatica.mp3"
+    },
+    {
+        "id": 334,
+        "prompt": "Tu {input} (lavorare) come autista.",
+        "answer": "lavori",
+        "translation": "You work as a driver.",
+        "audio": "334_Tu_lavori_come_autista.mp3"
+    },
+    {
+        "id": 335,
+        "prompt": "Lui {input} (parlare) in pubblico.",
+        "answer": "parla",
+        "translation": "He speaks in public.",
+        "audio": "335_Lui_parla_in_pubblico.mp3"
+    },
+    {
+        "id": 336,
+        "prompt": "Noi {input} (visitare) i mercati locali.",
+        "answer": "visitiamo",
+        "translation": "We visit the local markets.",
+        "audio": "336_Noi_visitiamo_i_mercati_locali.mp3"
+    },
+    {
+        "id": 337,
+        "prompt": "Voi {input} (guardare) le nuvole nel cielo.",
+        "answer": "guardate",
+        "translation": "You watch the clouds in the sky.",
+        "audio": "337_Voi_guardate_le_nuvole_nel_cielo.mp3"
+    },
+    {
+        "id": 338,
+        "prompt": "Loro {input} (cercare) un posto tranquillo.",
+        "answer": "cercano",
+        "translation": "They look for a quiet place.",
+        "audio": "338_Loro_cercano_un_posto_tranquillo.mp3"
+    },
+    {
+        "id": 339,
+        "prompt": "Io {input} (giocare) a ping pong.",
+        "answer": "gioco",
+        "translation": "I play ping pong.",
+        "audio": "339_Io_gioco_a_ping_pong.mp3"
+    },
+    {
+        "id": 340,
+        "prompt": "Tu {input} (preparare) una torta di compleanno.",
+        "answer": "prepari",
+        "translation": "You prepare a birthday cake.",
+        "audio": "340_Tu_prepari_una_torta_di_compleanno.mp3"
+    },
+    {
+        "id": 341,
+        "prompt": "Lui {input} (studiare) il comportamento umano.",
+        "answer": "studia",
+        "translation": "He studies human behaviour.",
+        "audio": "341_Lui_studia_il_comportamento_umano.mp3"
+    },
+    {
+        "id": 342,
+        "prompt": "Noi {input} (lavorare) al progetto insieme.",
+        "answer": "lavoriamo",
+        "translation": "We work on the project together.",
+        "audio": "342_Noi_lavoriamo_al_progetto_insieme.mp3"
+    },
+    {
+        "id": 343,
+        "prompt": "Voi {input} (parlare) di politica.",
+        "answer": "parlate",
+        "translation": "You talk about politics.",
+        "audio": "343_Voi_parlate_di_politica.mp3"
+    },
+    {
+        "id": 344,
+        "prompt": "Loro {input} (visitare) la mostra d'arte.",
+        "answer": "visitano",
+        "translation": "They visit the art exhibition.",
+        "audio": "344_Loro_visitano_la_mostra_darte.mp3"
+    },
+    {
+        "id": 345,
+        "prompt": "Io {input} (guardare) il mare al tramonto.",
+        "answer": "guardo",
+        "translation": "I watch the sea at sunset.",
+        "audio": "345_Io_guardo_il_mare_al_tramonto.mp3"
+    },
+    {
+        "id": 346,
+        "prompt": "Tu {input} (cercare) di capire.",
+        "answer": "cerchi",
+        "translation": "You try to understand.",
+        "audio": "346_Tu_cerchi_di_capire.mp3"
+    },
+    {
+        "id": 347,
+        "prompt": "Lui {input} (giocare) a calcio con gli amici.",
+        "answer": "gioca",
+        "translation": "He plays football with friends.",
+        "audio": "347_Lui_gioca_a_calcio_con_gli_amici.mp3"
+    },
+    {
+        "id": 348,
+        "prompt": "Noi {input} (preparare) il caffè per gli ospiti.",
+        "answer": "prepariamo",
+        "translation": "We prepare coffee for the guests.",
+        "audio": "348_Noi_prepariamo_il_caffe_per_gli_ospiti.mp3"
+    },
+    {
+        "id": 349,
+        "prompt": "Voi {input} (studiare) la fisica.",
+        "answer": "studiate",
+        "translation": "You study physics.",
+        "audio": "349_Voi_studiate_la_fisica.mp3"
+    },
+    {
+        "id": 350,
+        "prompt": "Loro {input} (lavorare) nei campi.",
+        "answer": "lavorano",
+        "translation": "They work in the fields.",
+        "audio": "350_Loro_lavorano_nei_campi.mp3"
+    },
+    {
+        "id": 351,
+        "prompt": "Io {input} (parlare) con i clienti.",
+        "answer": "parlo",
+        "translation": "I talk with the clients.",
+        "audio": "351_Io_parlo_con_i_clienti.mp3"
+    },
+    {
+        "id": 352,
+        "prompt": "Tu {input} (visitare) un nuovo ristorante ogni mese.",
+        "answer": "visiti",
+        "translation": "You visit a new restaurant every month.",
+        "audio": "352_Tu_visiti_un_nuovo_ristorante_ogni_mese.mp3"
+    },
+    {
+        "id": 353,
+        "prompt": "Lui {input} (guardare) la partita di basket.",
+        "answer": "guarda",
+        "translation": "He watches the basketball game.",
+        "audio": "353_Lui_guarda_la_partita_di_basket.mp3"
+    },
+    {
+        "id": 354,
+        "prompt": "Noi {input} (cercare) di migliorare sempre.",
+        "answer": "cerchiamo",
+        "translation": "We always try to improve.",
+        "audio": "354_Noi_cerchiamo_di_migliorare_sempre.mp3"
+    },
+    {
+        "id": 355,
+        "prompt": "Voi {input} (giocare) a videogiochi nel tempo libero.",
+        "answer": "giocate",
+        "translation": "You play video games in your free time.",
+        "audio": "355_Voi_giocate_a_videogiochi_nel_tempo_libero.mp3"
+    },
+    {
+        "id": 356,
+        "prompt": "Loro {input} (preparare) una cena speciale.",
+        "answer": "preparano",
+        "translation": "They prepare a special dinner.",
+        "audio": "356_Loro_preparano_una_cena_speciale.mp3"
+    },
+    {
+        "id": 357,
+        "prompt": "Io {input} (studiare) l'architettura.",
+        "answer": "studio",
+        "translation": "I study architecture.",
+        "audio": "357_Io_studio_larchitettura.mp3"
+    },
+    {
+        "id": 358,
+        "prompt": "Tu {input} (lavorare) troppo duramente.",
+        "answer": "lavori",
+        "translation": "You work too hard.",
+        "audio": "358_Tu_lavori_troppo_duramente.mp3"
+    },
+    {
+        "id": 359,
+        "prompt": "Lui {input} (parlare) di affari.",
+        "answer": "parla",
+        "translation": "He talks about business.",
+        "audio": "359_Lui_parla_di_affari.mp3"
+    },
+    {
+        "id": 360,
+        "prompt": "Noi {input} (visitare) la biblioteca pubblica.",
+        "answer": "visitiamo",
+        "translation": "We visit the public library.",
+        "audio": "360_Noi_visitiamo_la_biblioteca_pubblica.mp3"
+    },
+    {
+        "id": 361,
+        "prompt": "Io {input} (mangiare) una pizza margherita.",
+        "answer": "mangio",
+        "translation": "I eat a margherita pizza.",
+        "audio": "361_Io_mangio_una_pizza_margherita.mp3"
+    },
+    {
+        "id": 362,
+        "prompt": "Tu {input} (giocare) con il cane al parco.",
+        "answer": "giochi",
+        "translation": "You play with the dog at the park.",
+        "audio": "362_Tu_giochi_con_il_cane_al_parco.mp3"
+    },
+    {
+        "id": 363,
+        "prompt": "Lui {input} (parlare) con il suo amico al telefono.",
+        "answer": "parla",
+        "translation": "He talks with his friend on the phone.",
+        "audio": "363_Lui_parla_con_il_suo_amico_al_telefono.mp3"
+    },
+    {
+        "id": 364,
+        "prompt": "Noi {input} (studiare) italiano ogni giorno.",
+        "answer": "studiamo",
+        "translation": "We study Italian every day.",
+        "audio": "364_Noi_studiamo_italiano_ogni_giorno.mp3"
+    },
+    {
+        "id": 365,
+        "prompt": "Voi {input} (cercare) una soluzione al problema.",
+        "answer": "cercate",
+        "translation": "You look for a solution to the problem.",
+        "audio": "365_Voi_cercate_una_soluzione_al_problema.mp3"
+    },
+    {
+        "id": 366,
+        "prompt": "Loro {input} (preparare) la cena per la famiglia.",
+        "answer": "preparano",
+        "translation": "They prepare dinner for the family.",
+        "audio": "366_Loro_preparano_la_cena_per_la_famiglia.mp3"
+    },
+    {
+        "id": 367,
+        "prompt": "Io {input} (guardare) la TV prima di dormire.",
+        "answer": "guardo",
+        "translation": "I watch TV before sleeping.",
+        "audio": "367_Io_guardo_la_TV_prima_di_dormire.mp3"
+    },
+    {
+        "id": 368,
+        "prompt": "Tu {input} (visitare) il nuovo museo in città.",
+        "answer": "visiti",
+        "translation": "You visit the new museum in town.",
+        "audio": "368_Tu_visiti_il_nuovo_museo_in_citta.mp3"
+    },
+    {
+        "id": 369,
+        "prompt": "Lui {input} (mangiare) un panino per pranzo.",
+        "answer": "mangia",
+        "translation": "He eats a sandwich for lunch.",
+        "audio": "369_Lui_mangia_un_panino_per_pranzo.mp3"
+    },
+    {
+        "id": 370,
+        "prompt": "Noi {input} (giocare) a tennis il sabato.",
+        "answer": "giochiamo",
+        "translation": "We play tennis on Saturdays.",
+        "audio": "370_Noi_giochiamo_a_tennis_il_sabato.mp3"
+    },
+    {
+        "id": 371,
+        "prompt": "Voi {input} (parlare) troppo durante la lezione.",
+        "answer": "parlate",
+        "translation": "You talk too much during the lesson.",
+        "audio": "371_Voi_parlate_troppo_durante_la_lezione.mp3"
+    },
+    {
+        "id": 372,
+        "prompt": "Loro {input} (studiare) per diventare avvocati.",
+        "answer": "studiano",
+        "translation": "They study to become lawyers.",
+        "audio": "372_Loro_studiano_per_diventare_avvocati.mp3"
+    },
+    {
+        "id": 373,
+        "prompt": "Io {input} (cercare) il mio cellulare.",
+        "answer": "cerco",
+        "translation": "I look for my cell phone.",
+        "audio": "373_Io_cerco_il_mio_cellulare.mp3"
+    },
+    {
+        "id": 374,
+        "prompt": "Tu {input} (preparare) un esame difficile.",
+        "answer": "prepari",
+        "translation": "You prepare for a difficult exam.",
+        "audio": "374_Tu_prepari_un_esame_difficile.mp3"
+    },
+    {
+        "id": 375,
+        "prompt": "Lui {input} (guardare) i fuochi d'artificio.",
+        "answer": "guarda",
+        "translation": "He watches the fireworks.",
+        "audio": "375_Lui_guarda_i_fuochi_dartificio.mp3"
+    },
+    {
+        "id": 376,
+        "prompt": "Noi {input} (visitare) il centro commerciale.",
+        "answer": "visitiamo",
+        "translation": "We visit the shopping mall.",
+        "audio": "376_Noi_visitiamo_il_centro_commerciale.mp3"
+    },
+    {
+        "id": 377,
+        "prompt": "Voi {input} (mangiare) insieme ogni domenica.",
+        "answer": "mangiate",
+        "translation": "You eat together every Sunday.",
+        "audio": "377_Voi_mangiate_insieme_ogni_domenica.mp3"
+    },
+    {
+        "id": 378,
+        "prompt": "Loro {input} (giocare) a calcio dopo scuola.",
+        "answer": "giocano",
+        "translation": "They play football after school.",
+        "audio": "378_Loro_giocano_a_calcio_dopo_scuola.mp3"
+    },
+    {
+        "id": 379,
+        "prompt": "Io {input} (parlare) con il mio professore.",
+        "answer": "parlo",
+        "translation": "I talk with my professor.",
+        "audio": "379_Io_parlo_con_il_mio_professore.mp3"
+    },
+    {
+        "id": 380,
+        "prompt": "Tu {input} (studiare) la storia dell'arte.",
+        "answer": "studi",
+        "translation": "You study art history.",
+        "audio": "380_Tu_studi_la_storia_dellarte.mp3"
+    },
+    {
+        "id": 381,
+        "prompt": "Lui {input} (cercare) un parcheggio libero.",
+        "answer": "cerca",
+        "translation": "He looks for a free parking spot.",
+        "audio": "381_Lui_cerca_un_parcheggio_libero.mp3"
+    },
+    {
+        "id": 382,
+        "prompt": "Noi {input} (preparare) una festa a sorpresa.",
+        "answer": "prepariamo",
+        "translation": "We prepare a surprise party.",
+        "audio": "382_Noi_prepariamo_una_festa_a_sorpresa.mp3"
+    },
+    {
+        "id": 383,
+        "prompt": "Voi {input} (guardare) un film romantico.",
+        "answer": "guardate",
+        "translation": "You watch a romantic movie.",
+        "audio": "383_Voi_guardate_un_film_romantico.mp3"
+    },
+    {
+        "id": 384,
+        "prompt": "Loro {input} (visitare) i loro amici a Roma.",
+        "answer": "visitano",
+        "translation": "They visit their friends in Rome.",
+        "audio": "384_Loro_visitano_i_loro_amici_a_Roma.mp3"
+    },
+    {
+        "id": 385,
+        "prompt": "Io {input} (mangiare) un'insalata a pranzo.",
+        "answer": "mangio",
+        "translation": "I eat a salad for lunch.",
+        "audio": "385_Io_mangio_uninsalata_a_pranzo.mp3"
+    },
+    {
+        "id": 386,
+        "prompt": "Tu {input} (giocare) con i tuoi fratelli.",
+        "answer": "giochi",
+        "translation": "You play with your siblings.",
+        "audio": "386_Tu_giochi_con_i_tuoi_fratelli.mp3"
+    },
+    {
+        "id": 387,
+        "prompt": "Lui {input} (parlare) molto bene il francese.",
+        "answer": "parla",
+        "translation": "He speaks French very well.",
+        "audio": "387_Lui_parla_molto_bene_il_francese.mp3"
+    },
+    {
+        "id": 388,
+        "prompt": "Noi {input} (studiare) insieme in biblioteca.",
+        "answer": "studiamo",
+        "translation": "We study together in the library.",
+        "audio": "388_Noi_studiamo_insieme_in_biblioteca.mp3"
+    },
+    {
+        "id": 389,
+        "prompt": "Voi {input} (cercare) un appartamento in affitto.",
+        "answer": "cercate",
+        "translation": "You look for an apartment to rent.",
+        "audio": "389_Voi_cercate_un_appartamento_in_affitto.mp3"
+    },
+    {
+        "id": 390,
+        "prompt": "Loro {input} (preparare) il pranzo per tutti.",
+        "answer": "preparano",
+        "translation": "They prepare lunch for everyone.",
+        "audio": "390_Loro_preparano_il_pranzo_per_tutti.mp3"
+    },
+    {
+        "id": 391,
+        "prompt": "Io {input} (guardare) le notizie ogni mattina.",
+        "answer": "guardo",
+        "translation": "I watch the news every morning.",
+        "audio": "391_Io_guardo_le_notizie_ogni_mattina.mp3"
+    },
+    {
+        "id": 392,
+        "prompt": "Tu {input} (visitare) un amico in ospedale.",
+        "answer": "visiti",
+        "translation": "You visit a friend in the hospital.",
+        "audio": "392_Tu_visiti_un_amico_in_ospedale.mp3"
+    },
+    {
+        "id": 393,
+        "prompt": "Lui {input} (mangiare) pesce a cena.",
+        "answer": "mangia",
+        "translation": "He eats fish for dinner.",
+        "audio": "393_Lui_mangia_pesce_a_cena.mp3"
+    },
+    {
+        "id": 394,
+        "prompt": "Noi {input} (giocare) a carte con i vicini.",
+        "answer": "giochiamo",
+        "translation": "We play cards with the neighbors.",
+        "audio": "394_Noi_giochiamo_a_carte_con_i_vicini.mp3"
+    },
+    {
+        "id": 395,
+        "prompt": "Voi {input} (parlare) di politica.",
+        "answer": "parlate",
+        "translation": "You talk about politics.",
+        "audio": "395_Voi_parlate_di_politica.mp3"
+    },
+    {
+        "id": 396,
+        "prompt": "Loro {input} (studiare) scienze naturali.",
+        "answer": "studiano",
+        "translation": "They study natural sciences.",
+        "audio": "396_Loro_studiano_scienze_naturali.mp3"
+    },
+    {
+        "id": 397,
+        "prompt": "Io {input} (cercare) un ristorante italiano.",
+        "answer": "cerco",
+        "translation": "I look for an Italian restaurant.",
+        "audio": "397_Io_cerco_un_ristorante_italiano.mp3"
+    },
+    {
+        "id": 398,
+        "prompt": "Tu {input} (preparare) il caffè per tutti.",
+        "answer": "prepari",
+        "translation": "You prepare coffee for everyone.",
+        "audio": "398_Tu_prepari_il_caffe_per_tutti.mp3"
+    },
+    {
+        "id": 399,
+        "prompt": "Lui {input} (guardare) il cielo stellato.",
+        "answer": "guarda",
+        "translation": "He watches the starry sky.",
+        "audio": "399_Lui_guarda_il_cielo_stellato.mp3"
+    },
+    {
+        "id": 400,
+        "prompt": "Noi {input} (visitare) un villaggio storico.",
+        "answer": "visitiamo",
+        "translation": "We visit a historic village.",
+        "audio": "400_Noi_visitiamo_un_villaggio_storico.mp3"
+    },
+    {
+        "id": 401,
+        "prompt": "Voi {input} (mangiare) troppa carne.",
+        "answer": "mangiate",
+        "translation": "You eat too much meat.",
+        "audio": "401_Voi_mangiate_troppa_carne.mp3"
+    },
+    {
+        "id": 402,
+        "prompt": "Loro {input} (giocare) a nascondino.",
+        "answer": "giocano",
+        "translation": "They play hide and seek.",
+        "audio": "402_Loro_giocano_a_nascondino.mp3"
+    },
+    {
+        "id": 403,
+        "prompt": "Io {input} (parlare) con il vicino di casa.",
+        "answer": "parlo",
+        "translation": "I talk with the neighbor.",
+        "audio": "403_Io_parlo_con_il_vicino_di_casa.mp3"
+    },
+    {
+        "id": 404,
+        "prompt": "Tu {input} (studiare) economia all'università.",
+        "answer": "studi",
+        "translation": "You study economics at university.",
+        "audio": "404_Tu_studi_economia_alluniversità.mp3"
+    },
+    {
+        "id": 405,
+        "prompt": "Lui {input} (cercare) il suo portafoglio.",
+        "answer": "cerca",
+        "translation": "He looks for his wallet.",
+        "audio": "405_Lui_cerca_il_suo_portafoglio.mp3"
+    },
+    {
+        "id": 406,
+        "prompt": "Noi {input} (preparare) una cena speciale.",
+        "answer": "prepariamo",
+        "translation": "We prepare a special dinner.",
+        "audio": "406_Noi_prepariamo_una_cena_speciale.mp3"
+    },
+    {
+        "id": 407,
+        "prompt": "Voi {input} (guardare) le onde del mare.",
+        "answer": "guardate",
+        "translation": "You watch the sea waves.",
+        "audio": "407_Voi_guardate_le_onde_del_mare.mp3"
+    },
+    {
+        "id": 408,
+        "prompt": "Loro {input} (visitare) il parco naturale.",
+        "answer": "visitano",
+        "translation": "They visit the nature park.",
+        "audio": "408_Loro_visitano_il_parco_naturale.mp3"
+    },
+    {
+        "id": 409,
+        "prompt": "Io {input} (mangiare) frutta a colazione.",
+        "answer": "mangio",
+        "translation": "I eat fruit for breakfast.",
+        "audio": "409_Io_mangio_frutta_a_colazione.mp3"
+    },
+    {
+        "id": 410,
+        "prompt": "Tu {input} (giocare) a scacchi con il nonno.",
+        "answer": "giochi",
+        "translation": "You play chess with grandpa.",
+        "audio": "410_Tu_giochi_a_scacchi_con_il_nonno.mp3"
+    },
+    {
+        "id": 411,
+        "prompt": "Lui {input} (parlare) lentamente.",
+        "answer": "parla",
+        "translation": "He talks slowly.",
+        "audio": "411_Lui_parla_lentamente.mp3"
+    },
+    {
+        "id": 412,
+        "prompt": "Noi {input} (studiare) geografia.",
+        "answer": "studiamo",
+        "translation": "We study geography.",
+        "audio": "412_Noi_studiamo_geografia.mp3"
+    },
+    {
+        "id": 413,
+        "prompt": "Voi {input} (cercare) le chiavi della macchina.",
+        "answer": "cercate",
+        "translation": "You look for the car keys.",
+        "audio": "413_Voi_cercate_le_chiavi_della_macchina.mp3"
+    },
+    {
+        "id": 414,
+        "prompt": "Loro {input} (preparare) il pranzo della domenica.",
+        "answer": "preparano",
+        "translation": "They prepare Sunday lunch.",
+        "audio": "414_Loro_preparano_il_pranzo_della_domenica.mp3"
+    },
+    {
+        "id": 415,
+        "prompt": "Io {input} (guardare) un documentario.",
+        "answer": "guardo",
+        "translation": "I watch a documentary.",
+        "audio": "415_Io_guardo_un_documentario.mp3"
+    },
+    {
+        "id": 416,
+        "prompt": "Tu {input} (visitare) i tuoi nonni.",
+        "answer": "visiti",
+        "translation": "You visit your grandparents.",
+        "audio": "416_Tu_visiti_i_tuoi_nonni.mp3"
+    },
+    {
+        "id": 417,
+        "prompt": "Lui {input} (mangiare) la pasta al pesto.",
+        "answer": "mangia",
+        "translation": "He eats pesto pasta.",
+        "audio": "417_Lui_mangia_la_pasta_al_pesto.mp3"
+    },
+    {
+        "id": 418,
+        "prompt": "Noi {input} (giocare) a pallacanestro.",
+        "answer": "giochiamo",
+        "translation": "We play basketball.",
+        "audio": "418_Noi_giochiamo_a_pallacanestro.mp3"
+    },
+    {
+        "id": 419,
+        "prompt": "Voi {input} (parlare) con l'insegnante.",
+        "answer": "parlate",
+        "translation": "You talk with the teacher.",
+        "audio": "419_Voi_parlate_con_linsegnante.mp3"
+    },
+    {
+        "id": 420,
+        "prompt": "Loro {input} (studiare) per il test.",
+        "answer": "studiano",
+        "translation": "They study for the test.",
+        "audio": "420_Loro_studiano_per_il_test.mp3"
+    },
+    {
+        "id": 421,
+        "prompt": "Io {input} (cercare) un negozio di scarpe.",
+        "answer": "cerco",
+        "translation": "I look for a shoe store.",
+        "audio": "421_Io_cerco_un_negozio_di_scarpe.mp3"
+    },
+    {
+        "id": 422,
+        "prompt": "Tu {input} (preparare) il tavolo per cena.",
+        "answer": "prepari",
+        "translation": "You set the table for dinner.",
+        "audio": "422_Tu_prepari_il_tavolo_per_cena.mp3"
+    },
+    {
+        "id": 423,
+        "prompt": "Lui {input} (guardare) un video su YouTube.",
+        "answer": "guarda",
+        "translation": "He watches a video on YouTube.",
+        "audio": "423_Lui_guarda_un_video_su_YouTube.mp3"
+    },
+    {
+        "id": 424,
+        "prompt": "Noi {input} (visitare) un museo d'arte.",
+        "answer": "visitiamo",
+        "translation": "We visit an art museum.",
+        "audio": "424_Noi_visitiamo_un_museo_darte.mp3"
+    },
+    {
+        "id": 425,
+        "prompt": "Voi {input} (mangiare) fuori stasera.",
+        "answer": "mangiate",
+        "translation": "You eat out tonight.",
+        "audio": "425_Voi_mangiate_fuori_stasera.mp3"
+    },
+    {
+        "id": 426,
+        "prompt": "Loro {input} (giocare) a carte.",
+        "answer": "giocano",
+        "translation": "They play cards.",
+        "audio": "426_Loro_giocano_a_carte.mp3"
+    },
+    {
+        "id": 427,
+        "prompt": "Io {input} (parlare) con il dottore.",
+        "answer": "parlo",
+        "translation": "I talk with the doctor.",
+        "audio": "427_Io_parlo_con_il_dottore.mp3"
+    },
+    {
+        "id": 428,
+        "prompt": "Tu {input} (studiare) la fisica.",
+        "answer": "studi",
+        "translation": "You study physics.",
+        "audio": "428_Tu_studi_la_fisica.mp3"
+    },
+    {
+        "id": 429,
+        "prompt": "Lui {input} (cercare) un nuovo lavoro.",
+        "answer": "cerca",
+        "translation": "He looks for a new job.",
+        "audio": "429_Lui_cerca_un_nuovo_lavoro.mp3"
+    },
+    {
+        "id": 430,
+        "prompt": "Noi {input} (preparare) i bagagli.",
+        "answer": "prepariamo",
+        "translation": "We pack the luggage.",
+        "audio": "430_Noi_prepariamo_i_bagagli.mp3"
+    },
+    {
+        "id": 431,
+        "prompt": "Voi {input} (guardare) le foto delle vacanze.",
+        "answer": "guardate",
+        "translation": "You look at the vacation photos.",
+        "audio": "431_Voi_guardate_le_foto_delle_vacanze.mp3"
+    },
+    {
+        "id": 432,
+        "prompt": "Loro {input} (visitare) una galleria d'arte.",
+        "answer": "visitano",
+        "translation": "They visit an art gallery.",
+        "audio": "432_Loro_visitano_una_galleria_d'arte.mp3"
+    },
+    {
+        "id": 433,
+        "prompt": "Io {input} (mangiare) troppi dolci.",
+        "answer": "mangio",
+        "translation": "I eat too many sweets.",
+        "audio": "433_Io_mangio_troppi_dolci.mp3"
+    },
+    {
+        "id": 434,
+        "prompt": "Tu {input} (giocare) con il gatto.",
+        "answer": "giochi",
+        "translation": "You play with the cat.",
+        "audio": "434_Tu_giochi_con_il_gatto.mp3"
+    },
+    {
+        "id": 435,
+        "prompt": "Lui {input} (parlare) ad alta voce.",
+        "answer": "parla",
+        "translation": "He talks loudly.",
+        "audio": "435_Lui_parla_ad_alta_voce.mp3"
+    },
+    {
+        "id": 436,
+        "prompt": "Noi {input} (studiare) l'italiano.",
+        "answer": "studiamo",
+        "translation": "We study Italian.",
+        "audio": "436_Noi_studiamo_litaliano.mp3"
+    },
+    {
+        "id": 437,
+        "prompt": "Voi {input} (cercare) una nuova macchina.",
+        "answer": "cercate",
+        "translation": "You look for a new car.",
+        "audio": "437_Voi_cercate_una_nuova_macchina.mp3"
+    },
+    {
+        "id": 438,
+        "prompt": "Loro {input} (preparare) una sorpresa.",
+        "answer": "preparano",
+        "translation": "They prepare a surprise.",
+        "audio": "438_Loro_preparano_una_sorpresa.mp3"
+    },
+    {
+        "id": 439,
+        "prompt": "Io {input} (guardare) le stelle.",
+        "answer": "guardo",
+        "translation": "I watch the stars.",
+        "audio": "439_Io_guardo_le_stelle.mp3"
+    },
+    {
+        "id": 440,
+        "prompt": "Tu {input} (visitare) il centro città.",
+        "answer": "visiti",
+        "translation": "You visit the city center.",
+        "audio": "440_Tu_visiti_il_centro_citta.mp3"
+    },
+    {
+        "id": 441,
+        "prompt": "Lui {input} (mangiare) a casa della nonna.",
+        "answer": "mangia",
+        "translation": "He eats at grandma's house.",
+        "audio": "441_Lui_mangia_a_casa_della_nonna.mp3"
+    },
+    {
+        "id": 442,
+        "prompt": "Noi {input} (giocare) a pallone nel cortile.",
+        "answer": "giochiamo",
+        "translation": "We play ball in the courtyard.",
+        "audio": "442_Noi_giochiamo_a_pallone_nel_cortile.mp3"
+    },
+    {
+        "id": 443,
+        "prompt": "Voi {input} (parlare) di sport.",
+        "answer": "parlate",
+        "translation": "You talk about sports.",
+        "audio": "443_Voi_parlate_di_sport.mp3"
+    },
+    {
+        "id": 444,
+        "prompt": "Loro {input} (studiare) ingegneria.",
+        "answer": "studiano",
+        "translation": "They study engineering.",
+        "audio": "444_Loro_studiano_ingegneria.mp3"
+    },
+    {
+        "id": 445,
+        "prompt": "Io {input} (cercare) un nuovo libro da leggere.",
+        "answer": "cerco",
+        "translation": "I look for a new book to read.",
+        "audio": "445_Io_cerco_un_nuovo_libro_da_leggere.mp3"
+    },
+    {
+        "id": 446,
+        "prompt": "Tu {input} (preparare) il letto.",
+        "answer": "prepari",
+        "translation": "You make the bed.",
+        "audio": "446_Tu_prepari_il_letto.mp3"
+    },
+    {
+        "id": 447,
+        "prompt": "Lui {input} (guardare) un programma TV.",
+        "answer": "guarda",
+        "translation": "He watches a TV show.",
+        "audio": "447_Lui_guarda_un_programma_TV.mp3"
+    },
+    {
+        "id": 448,
+        "prompt": "Noi {input} (visitare) il museo delle scienze.",
+        "answer": "visitiamo",
+        "translation": "We visit the science museum.",
+        "audio": "448_Noi_visitiamo_il_museo_delle_scienze.mp3"
+    },
+    {
+        "id": 449,
+        "prompt": "Voi {input} (mangiare) spaghetti a cena.",
+        "answer": "mangiate",
+        "translation": "You eat spaghetti for dinner.",
+        "audio": "449_Voi_mangiate_spaghetti_a_cena.mp3"
+    },
+    {
+        "id": 450,
+        "prompt": "Loro {input} (giocare) a basket ogni giorno.",
+        "answer": "giocano",
+        "translation": "They play basketball every day.",
+        "audio": "450_Loro_giocano_a_basket_ogni_giorno.mp3"
+    },
+    {
+        "id": 451,
+        "prompt": "Io {input} (parlare) inglese e italiano.",
+        "answer": "parlo",
+        "translation": "I speak English and Italian.",
+        "audio": "451_Io_parlo_inglese_e_italiano.mp3"
+    },
+    {
+        "id": 452,
+        "prompt": "Tu {input} (studiare) medicina.",
+        "answer": "studi",
+        "translation": "You study medicine.",
+        "audio": "452_Tu_studi_medicina.mp3"
+    },
+    {
+        "id": 453,
+        "prompt": "Lui {input} (cercare) il suo gatto.",
+        "answer": "cerca",
+        "translation": "He looks for his cat.",
+        "audio": "453_Lui_cerca_il_suo_gatto.mp3"
+    },
+    {
+        "id": 454,
+        "prompt": "Noi {input} (preparare) il tè.",
+        "answer": "prepariamo",
+        "translation": "We prepare tea.",
+        "audio": "454_Noi_prepariamo_il_te.mp3"
+    },
+    {
+        "id": 455,
+        "prompt": "Voi {input} (guardare) un film d'azione.",
+        "answer": "guardate",
+        "translation": "You watch an action movie.",
+        "audio": "455_Voi_guardate_un_film_dazione.mp3"
+    },
+    {
+        "id": 456,
+        "prompt": "Loro {input} (visitare) la chiesa storica.",
+        "answer": "visitano",
+        "translation": "They visit the historic church.",
+        "audio": "456_Loro_visitano_la_chiesa_storica.mp3"
+    },
+    {
+        "id": 457,
+        "prompt": "Io {input} (mangiare) il dessert.",
+        "answer": "mangio",
+        "translation": "I eat dessert.",
+        "audio": "457_Io_mangio_il_dessert.mp3"
+    },
+    {
+        "id": 458,
+        "prompt": "Tu {input} (giocare) a carte con gli amici.",
+        "answer": "giochi",
+        "translation": "You play cards with friends.",
+        "audio": "458_Tu_giochi_a_carte_con_gli_amici.mp3"
+    },
+    {
+        "id": 459,
+        "prompt": "Lui {input} (parlare) con l'insegnante.",
+        "answer": "parla",
+        "translation": "He talks with the teacher.",
+        "audio": "459_Lui_parla_con_linsegnante.mp3"
+    },
+    {
+        "id": 460,
+        "prompt": "Noi {input} (studiare) per l'esame di matematica.",
+        "answer": "studiamo",
+        "translation": "We study for the math exam.",
+        "audio": "460_Noi_studiamo_per_lesame_di_matematica.mp3"
+    },
+    {
+        "id": 461,
+        "prompt": "Voi {input} (cercare) una nuova scuola.",
+        "answer": "cercate",
+        "translation": "You look for a new school.",
+        "audio": "461_Voi_cercate_una_nuova_scuola.mp3"
+    },
+    {
+        "id": 462,
+        "prompt": "Loro {input} (preparare) una festa a sorpresa.",
+        "answer": "preparano",
+        "translation": "They prepare a surprise party.",
+        "audio": "462_Loro_preparano_una_festa_a_sorpresa.mp3"
+    },
+    {
+        "id": 463,
+        "prompt": "Io {input} (guardare) la mia serie TV preferita.",
+        "answer": "guardo",
+        "translation": "I watch my favorite TV series.",
+        "audio": "463_Io_guardo_la_mia_serie_TV_preferita.mp3"
+    },
+    {
+        "id": 464,
+        "prompt": "Tu {input} (visitare) il medico domani.",
+        "answer": "visiti",
+        "translation": "You visit the doctor tomorrow.",
+        "audio": "464_Tu_visiti_il_medico_domani.mp3"
+    },
+    {
+        "id": 465,
+        "prompt": "Lui {input} (mangiare) frutti di mare.",
+        "answer": "mangia",
+        "translation": "He eats seafood.",
+        "audio": "465_Lui_mangia_frutti_di_mare.mp3"
+    },
+    {
+        "id": 466,
+        "prompt": "Noi {input} (giocare) a nascondino con i bambini.",
+        "answer": "giochiamo",
+        "translation": "We play hide and seek with the kids.",
+        "audio": "466_Noi_giochiamo_a_nascondino_con_i_bambini.mp3"
+    },
+    {
+        "id": 467,
+        "prompt": "Voi {input} (parlare) di vacanze estive.",
+        "answer": "parlate",
+        "translation": "You talk about summer vacations.",
+        "audio": "467_Voi_parlate_di_vacanze_estive.mp3"
+    },
+    {
+        "id": 468,
+        "prompt": "Loro {input} (studiare) musica.",
+        "answer": "studiano",
+        "translation": "They study music.",
+        "audio": "468_Loro_studiano_musica.mp3"
+    },
+    {
+        "id": 469,
+        "prompt": "Io {input} (cercare) la mia borsa.",
+        "answer": "cerco",
+        "translation": "I look for my bag.",
+        "audio": "469_Io_cerco_la_mia_borsa.mp3"
+    },
+    {
+        "id": 470,
+        "prompt": "Tu {input} (preparare) il pranzo.",
+        "answer": "prepari",
+        "translation": "You prepare lunch.",
+        "audio": "470_Tu_prepari_il_pranzo.mp3"
+    },
+    {
+        "id": 471,
+        "prompt": "Lui {input} (guardare) il panorama dalla finestra.",
+        "answer": "guarda",
+        "translation": "He watches the view from the window.",
+        "audio": "471_Lui_guarda_il_panorama_dalla_finestra.mp3"
+    },
+    {
+        "id": 472,
+        "prompt": "Noi {input} (visitare) la mostra d'arte moderna.",
+        "answer": "visitiamo",
+        "translation": "We visit the modern art exhibition.",
+        "audio": "472_Noi_visitiamo_la_mostra_darte_moderna.mp3"
+    },
+    {
+        "id": 473,
+        "prompt": "Voi {input} (mangiare) al ristorante italiano.",
+        "answer": "mangiate",
+        "translation": "You eat at the Italian restaurant.",
+        "audio": "473_Voi_mangiate_al_ristorante_italiano.mp3"
+    },
+    {
+        "id": 474,
+        "prompt": "Loro {input} (giocare) a pallacanestro nel pomeriggio.",
+        "answer": "giocano",
+        "translation": "They play basketball in the afternoon.",
+        "audio": "474_Loro_giocano_a_pallacanestro_nel_pomeriggio.mp3"
+    },
+    {
+        "id": 475,
+        "prompt": "Io {input} (parlare) al telefono con mia madre.",
+        "answer": "parlo",
+        "translation": "I talk on the phone with my mother.",
+        "audio": "475_Io_parlo_al_telefono_con_mia_madre.mp3"
+    },
+    {
+        "id": 476,
+        "prompt": "Tu {input} (studiare) architettura.",
+        "answer": "studi",
+        "translation": "You study architecture.",
+        "audio": "476_Tu_studi_architettura.mp3"
+    },
+    {
+        "id": 477,
+        "prompt": "Lui {input} (cercare) un buon ristorante.",
+        "answer": "cerca",
+        "translation": "He looks for a good restaurant.",
+        "audio": "477_Lui_cerca_un_buon_ristorante.mp3"
+    },
+    {
+        "id": 478,
+        "prompt": "Noi {input} (preparare) la cena per stasera.",
+        "answer": "prepariamo",
+        "translation": "We prepare dinner for tonight.",
+        "audio": "478_Noi_prepariamo_la_cena_per_stasera.mp3"
+    },
+    {
+        "id": 479,
+        "prompt": "Voi {input} (guardare) una partita di calcio.",
+        "answer": "guardate",
+        "translation": "You watch a football match.",
+        "audio": "479_Voi_guardate_una_partita_di_calcio.mp3"
+    },
+    {
+        "id": 480,
+        "prompt": "Loro {input} (visitare) un castello medievale.",
+        "answer": "visitano",
+        "translation": "They visit a medieval castle.",
+        "audio": "480_Loro_visitano_un_castello_medievale.mp3"
+    },
+    {
+        "id": 481,
+        "prompt": "Io {input} (mangiare) la pizza ogni venerdì.",
+        "answer": "mangio",
+        "translation": "I eat pizza every Friday.",
+        "audio": "481_Io_mangio_la_pizza_ogni_venerdì.mp3"
+    },
+    {
+        "id": 482,
+        "prompt": "Tu {input} (giocare) con i tuoi amici.",
+        "answer": "giochi",
+        "translation": "You play with your friends.",
+        "audio": "482_Tu_giochi_con_i_tuoi_amici.mp3"
+    },
+    {
+        "id": 483,
+        "prompt": "Lui {input} (parlare) con il direttore.",
+        "answer": "parla",
+        "translation": "He talks with the director.",
+        "audio": "483_Lui_parla_con_il_direttore.mp3"
+    },
+    {
+        "id": 484,
+        "prompt": "Noi {input} (studiare) le lingue straniere.",
+        "answer": "studiamo",
+        "translation": "We study foreign languages.",
+        "audio": "484_Noi_studiamo_le_lingue_straniere.mp3"
+    },
+    {
+        "id": 485,
+        "prompt": "Voi {input} (cercare) un posto dove sedervi.",
+        "answer": "cercate",
+        "translation": "You look for a place to sit.",
+        "audio": "485_Voi_cercate_un_posto_dove_sedervi.mp3"
+    },
+    {
+        "id": 486,
+        "prompt": "Loro {input} (preparare) i documenti per il viaggio.",
+        "answer": "preparano",
+        "translation": "They prepare the documents for the trip.",
+        "audio": "486_Loro_preparano_i_documenti_per_il_viaggio.mp3"
+    },
+    {
+        "id": 487,
+        "prompt": "Io {input} (guardare) i cartoni animati.",
+        "answer": "guardo",
+        "translation": "I watch cartoons.",
+        "audio": "487_Io_guardo_i_cartoni_animati.mp3"
+    },
+    {
+        "id": 488,
+        "prompt": "Tu {input} (visitare) la tua famiglia.",
+        "answer": "visiti",
+        "translation": "You visit your family.",
+        "audio": "488_Tu_visiti_la_tua_famiglia.mp3"
+    },
+    {
+        "id": 489,
+        "prompt": "Lui {input} (mangiare) la frutta.",
+        "answer": "mangia",
+        "translation": "He eats fruit.",
+        "audio": "489_Lui_mangia_la_frutta.mp3"
+    },
+    {
+        "id": 490,
+        "prompt": "Noi {input} (giocare) a pallavolo sulla spiaggia.",
+        "answer": "giochiamo",
+        "translation": "We play volleyball on the beach.",
+        "audio": "490_Noi_giochiamo_a_pallavolo_sulla_spiaggia.mp3"
+    },
+    {
+        "id": 491,
+        "prompt": "Voi {input} (parlare) di cinema.",
+        "answer": "parlate",
+        "translation": "You talk about cinema.",
+        "audio": "491_Voi_parlate_di_cinema.mp3"
+    },
+    {
+        "id": 492,
+        "prompt": "Loro {input} (studiare) il comportamento umano.",
+        "answer": "studiano",
+        "translation": "They study human behavior.",
+        "audio": "492_Loro_studiano_il_comportamento_umano.mp3"
+    },
+    {
+        "id": 493,
+        "prompt": "Io {input} (cercare) una borsa nuova.",
+        "answer": "cerco",
+        "translation": "I look for a new bag.",
+        "audio": "493_Io_cerco_una_borsa_nuova.mp3"
+    },
+    {
+        "id": 494,
+        "prompt": "Tu {input} (preparare) una lezione interessante.",
+        "answer": "prepari",
+        "translation": "You prepare an interesting lesson.",
+        "audio": "494_Tu_prepari_una_lezione_interessante.mp3"
+    },
+    {
+        "id": 495,
+        "prompt": "Lui {input} (guardare) i video su YouTube.",
+        "answer": "guarda",
+        "translation": "He watches videos on YouTube.",
+        "audio": "495_Lui_guarda_i_video_su_YouTube.mp3"
+    },
+    {
+        "id": 496,
+        "prompt": "Noi {input} (visitare) una città nuova.",
+        "answer": "visitiamo",
+        "translation": "We visit a new city.",
+        "audio": "496_Noi_visitiamo_una_citta_nuova.mp3"
+    },
+    {
+        "id": 497,
+        "prompt": "Voi {input} (mangiare) fuori ogni sabato.",
+        "answer": "mangiate",
+        "translation": "You eat out every Saturday.",
+        "audio": "497_Voi_mangiate_fuori_ogni_sabato.mp3"
+    },
+    {
+        "id": 498,
+        "prompt": "Loro {input} (giocare) a ping pong.",
+        "answer": "giocano",
+        "translation": "They play ping pong.",
+        "audio": "498_Loro_giocano_a_ping_pong.mp3"
+    },
+    {
+        "id": 499,
+        "prompt": "Io {input} (parlare) di libri con gli amici.",
+        "answer": "parlo",
+        "translation": "I talk about books with friends.",
+        "audio": "499_Io_parlo_di_libri_con_gli_amici.mp3"
+    },
+    {
+        "id": 500,
+        "prompt": "Tu {input} (studiare) biologia.",
+        "answer": "studi",
+        "translation": "You study biology.",
+        "audio": "500_Tu_studi_biologia.mp3"
+    },
+    {
+        "id": 501,
+        "prompt": "Lui {input} (cercare) di capire la lezione.",
+        "answer": "cerca",
+        "translation": "He tries to understand the lesson.",
+        "audio": "501_Lui_cerca_di_capire_la_lezione.mp3"
+    },
+    {
+        "id": 502,
+        "prompt": "Noi {input} (preparare) una cena per i nostri amici.",
+        "answer": "prepariamo",
+        "translation": "We prepare a dinner for our friends.",
+        "audio": "502_Noi_prepariamo_una_cena_per_i_nostri_amici.mp3"
+    },
+    {
+        "id": 503,
+        "prompt": "Voi {input} (guardare) i film al cinema.",
+        "answer": "guardate",
+        "translation": "You watch movies at the cinema.",
+        "audio": "503_Voi_guardate_i_film_al_cinema.mp3"
+    },
+    {
+        "id": 504,
+        "prompt": "Loro {input} (visitare) i loro genitori ogni domenica.",
+        "answer": "visitano",
+        "translation": "They visit their parents every Sunday.",
+        "audio": "504_Loro_visitano_i_loro_genitori_ogni_domenica.mp3"
+    },
+    {
+        "id": 505,
+        "prompt": "Io {input} (mangiare) i biscotti fatti in casa.",
+        "answer": "mangio",
+        "translation": "I eat homemade cookies.",
+        "audio": "505_Io_mangio_i_biscotti_fatti_in_casa.mp3"
+    },
+    {
+        "id": 506,
+        "prompt": "Tu {input} (giocare) a pallavolo con gli amici.",
+        "answer": "giochi",
+        "translation": "You play volleyball with friends.",
+        "audio": "506_Tu_giochi_a_pallavolo_con_gli_amici.mp3"
+    },
+    {
+        "id": 507,
+        "prompt": "Lui {input} (parlare) dei suoi piani futuri.",
+        "answer": "parla",
+        "translation": "He talks about his future plans.",
+        "audio": "507_Lui_parla_dei_suoi_piani_futuri.mp3"
+    },
+    {
+        "id": 508,
+        "prompt": "Noi {input} (studiare) la storia dell'arte.",
+        "answer": "studiamo",
+        "translation": "We study art history.",
+        "audio": "508_Noi_studiamo_la_storia_dellarte.mp3"
+    },
+    {
+        "id": 509,
+        "prompt": "Voi {input} (cercare) una risposta.",
+        "answer": "cercate",
+        "translation": "You look for an answer.",
+        "audio": "509_Voi_cercate_una_risposta.mp3"
+    },
+    {
+        "id": 510,
+        "prompt": "Loro {input} (preparare) la valigia per il viaggio.",
+        "answer": "preparano",
+        "translation": "They pack the suitcase for the trip.",
+        "audio": "510_Loro_preparano_la_valigia_per_il_viaggio.mp3"
+    },
+    {
+        "id": 511,
+        "prompt": "Io {input} (guardare) i miei film preferiti.",
+        "answer": "guardo",
+        "translation": "I watch my favorite movies.",
+        "audio": "511_Io_guardo_i_miei_film_preferiti.mp3"
+    },
+    {
+        "id": 512,
+        "prompt": "Tu {input} (visitare) una mostra d'arte.",
+        "answer": "visiti",
+        "translation": "You visit an art exhibition.",
+        "audio": "512_Tu_visiti_una_mostra_darte.mp3"
+    },
+    {
+        "id": 513,
+        "prompt": "Lui {input} (mangiare) verdure ogni giorno.",
+        "answer": "mangia",
+        "translation": "He eats vegetables every day.",
+        "audio": "513_Lui_mangia_verdure_ogni_giorno.mp3"
+    },
+    {
+        "id": 514,
+        "prompt": "Noi {input} (giocare) a calcio nel parco.",
+        "answer": "giochiamo",
+        "translation": "We play football in the park.",
+        "audio": "514_Noi_giochiamo_a_calcio_nel_parco.mp3"
+    },
+    {
+        "id": 515,
+        "prompt": "Voi {input} (parlare) delle ultime notizie.",
+        "answer": "parlate",
+        "translation": "You talk about the latest news.",
+        "audio": "515_Voi_parlate_delle_ultime_notizie.mp3"
+    },
+    {
+        "id": 516,
+        "prompt": "Loro {input} (studiare) la psicologia.",
+        "answer": "studiano",
+        "translation": "They study psychology.",
+        "audio": "516_Loro_studiano_la_psicologia.mp3"
+    },
+    {
+        "id": 517,
+        "prompt": "Io {input} (cercare) un posto tranquillo per leggere.",
+        "answer": "cerco",
+        "translation": "I look for a quiet place to read.",
+        "audio": "517_Io_cerco_un_posto_tranquillo_per_leggere.mp3"
+    },
+    {
+        "id": 518,
+        "prompt": "Tu {input} (preparare) una colazione abbondante.",
+        "answer": "prepari",
+        "translation": "You prepare a big breakfast.",
+        "audio": "518_Tu_prepari_una_colazione_abbondante.mp3"
+    },
+    {
+        "id": 519,
+        "prompt": "Lui {input} (guardare) le partite di calcio.",
+        "answer": "guarda",
+        "translation": "He watches football matches.",
+        "audio": "519_Lui_guarda_le_partite_di_calcio.mp3"
+    },
+    {
+        "id": 520,
+        "prompt": "Noi {input} (visitare) i musei durante le vacanze.",
+        "answer": "visitiamo",
+        "translation": "We visit museums during the holidays.",
+        "audio": "520_Noi_visitiamo_i_musei_durante_le_vacanze.mp3"
+    },
+    {
+        "id": 521,
+        "prompt": "Voi {input} (mangiare) insieme ogni giorno.",
+        "answer": "mangiate",
+        "translation": "You eat together every day.",
+        "audio": "521_Voi_mangiate_insieme_ogni_giorno.mp3"
+    },
+    {
+        "id": 522,
+        "prompt": "Loro {input} (giocare) a pallone ogni domenica.",
+        "answer": "giocano",
+        "translation": "They play ball every Sunday.",
+        "audio": "522_Loro_giocano_a_pallone_ogni_domenica.mp3"
+    },
+    {
+        "id": 523,
+        "prompt": "Io {input} (parlare) di sport con gli amici.",
+        "answer": "parlo",
+        "translation": "I talk about sports with friends.",
+        "audio": "523_Io_parlo_di_sport_con_gli_amici.mp3"
+    },
+    {
+        "id": 524,
+        "prompt": "Tu {input} (studiare) per diventare ingegnere.",
+        "answer": "studi",
+        "translation": "You study to become an engineer.",
+        "audio": "524_Tu_studi_per_diventare_ingegnere.mp3"
+    }
+]
